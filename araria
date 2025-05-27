@@ -1,0 +1,332 @@
+[
+    {
+        "Journalist": "Amod Kumar Sharad",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": 9471249708,
+        "Status": "Active"
+    },
+    {
+        "Journalist": "Asutosh Nirala ",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Jagran",
+        "Contact Number": 9431422489,
+        "Status": "Active"
+    },
+    {
+        " ": 18,
+        "Journalist": "Fulendra Mallik",
+        "Designation": "Bureau Chief",
+        "Publication": "Hindustan",
+        "Contact Number": 9431653113,
+        "Status": "Active"
+    },
+    {
+        "Journalist": "Mrigendra Mani Singh",
+        "Designation": "Bureau Chief",
+        "Publication": "Prabhat Khabar"
+    },
+    {
+        " ": 40,
+        "Journalist": "Sajid Alam",
+        "Designation": "Bureau Chief",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": 9430264817,
+        "Status": "Active"
+    },
+    {
+        " ": 34,
+        "Journalist": "Amarendra Kumar Simha",
+        "Designation": "Aaj Tak",
+        "Publication": "Pratahkal News",
+        "Contact Number": "9431864798; 9471686442; 7870779320"
+    },
+    {
+        " ": 7,
+        "Journalist": "Ravi Kumar",
+        "Designation": "District Reporter",
+        "Publication": "Zee",
+        "Contact Number": 9431292652,
+        "Status": "Active"
+    },
+    {
+        " ": 24,
+        "Journalist": "Aruna kumar",
+        "Designation": "Reporter",
+        "Publication": "News 24",
+        "Contact Number": 9471678126,
+        "Status": "Active"
+    },
+    {
+        " ": 2,
+        "Journalist": "Alok Kumar Singh",
+        "Designation": "District Reporter",
+        "Publication": "ETV",
+        "Contact Number": 9431250702,
+        "Status": "Active"
+    },
+    {
+        " ": 21,
+        "Journalist": "Rakesh Kumar Bhagat",
+        "Designation": "District Reporter",
+        "Publication": "ETV",
+        "Contact Number": 8986067316,
+        "Status": "Active"
+    },
+    {
+        " ": 45,
+        "Journalist": "Lakshmi Prasad Nayak",
+        "Designation": "Reporter",
+        "Publication": "Times Of India",
+        "Contact Number": 9934895250,
+        "Status": "Active"
+    },
+    {
+        " ": 3,
+        "Journalist": "Rupesh Kumar",
+        "Designation": "District Reporter",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": 9801737249,
+        "Status": "Active"
+    },
+    {
+        " ": 6,
+        "Journalist": "Upendra Prasad Yadav",
+        "Designation": "Reporter",
+        "Publication": "Janadesh",
+        "Contact Number": 9431060702,
+        "Status": "Active"
+    },
+    {
+        " ": 8,
+        "Journalist": "Abdul Gani",
+        "Designation": "Reporter",
+        "Publication": "Inqalab",
+        "Contact Number": 9931222982,
+        "Status": "Active"
+    },
+    {
+        " ": 9,
+        "Journalist": "Gautam Simah Sahagal",
+        "Designation": "District Correspndent",
+        "Publication": "Akashvani",
+        "Contact Number": 9430883943,
+        "Status": "Active"
+    },
+    {
+        " ": 15,
+        "Journalist": "Sahid Basir",
+        "Designation": "Reporter",
+        "Publication": "Doordarshan",
+        "Contact Number": 9431653909,
+        "Status": "Active"
+    },
+    {
+        " ": 22,
+        "Journalist": "Tribhuwan Thakur",
+        "Designation": "Bureau Chief",
+        "Publication": "Koshi Times",
+        "Contact Number": 9471232322,
+        "Status": "Active"
+    },
+    {
+        " ": 25,
+        "Journalist": "Murshid Raja",
+        "Designation": "District Reporter",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": 9431291332,
+        "Status": "Active"
+    },
+    {
+        " ": 30,
+        "Journalist": "Amit Kumar Aman",
+        "Designation": "Reporter",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": 9430682443,
+        "Status": "active"
+    },
+    {
+        " ": 1,
+        "Journalist": "Vipul Dhiravaj",
+        "Designation": "District Reporter",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": 9470227215,
+        "Status": "Active"
+    },
+    {
+        " ": 32,
+        "Journalist": "Naveen Kumar",
+        "Designation": "Reporter",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": 8544392101,
+        "Status": "NA"
+    },
+    {
+        " ": 33,
+        "Journalist": "Parvej Alam",
+        "Designation": "Reporter",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": 9534545442,
+        "Status": "Active"
+    },
+    {
+        " ": 35,
+        "Journalist": "Rajesh Kumar",
+        "Designation": "Reporter",
+        "Publication": "Pratahkal News",
+        "Contact Number": 9471630660
+    },
+    {
+        " ": 36,
+        "Journalist": "Rani Mahata",
+        "Designation": "District Reporter",
+        "Publication": "Pratahkal News",
+        "Contact Number": 9631336925
+    },
+    {
+        " ": 37,
+        "Journalist": "Sudan Sahaya",
+        "Designation": "Correspondent",
+        "Publication": "PTI",
+        "Contact Number": 9431653880
+    },
+    {
+        " ": 38,
+        "Journalist": "Ashsar Ahmmod",
+        "Designation": "Reporter",
+        "Publication": "Qaumi Tahjib",
+        "Contact Number": 9431269228
+    },
+    {
+        " ": 39,
+        "Journalist": "Niraj Kumar",
+        "Designation": "Reporter",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": 7301079137
+    },
+    {
+        " ": 41,
+        "Journalist": "Firoj Alam",
+        "Designation": "District Reporter",
+        "Publication": "Rashtriya Sahara Urdu",
+        "Contact Number": 9430636006
+    },
+    {
+        " ": 42,
+        "Journalist": "Pankaj Kumar Ranjit",
+        "Designation": "Reporter",
+        "Publication": "Sahara Samay",
+        "Contact Number": 9431206409,
+        "Status": "Active"
+    },
+    {
+        " ": 43,
+        "Journalist": "Rudra Kikam Varam",
+        "Publication": "sandesh bihar news",
+        "Contact Number": 9431437444
+    },
+    {
+        " ": 44,
+        "Journalist": "Suman Thakur",
+        "Designation": "Reporter",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": 7277391624,
+        "Status": "Active"
+    },
+    {
+        " ": 5,
+        "Journalist": "Purushottam Priyadarshi",
+        "Designation": "Reporter",
+        "Publication": "Aj",
+        "Contact Number": 9470235360,
+        "Status": "Active"
+    },
+    {
+        " ": 2,
+        "Journalist": "Sanjit Singh",
+        "Designation": "District Reporter",
+        "Publication": "P News Sachi Khabar",
+        "Contact Number": 9431853112,
+        "Status": "Switch off"
+    },
+    {
+        " ": 10,
+        "Journalist": "Mani Bhushan Thakur",
+        "Designation": "Bureau Chief",
+        "Publication": "Andekhi news",
+        "Contact Number": 9472051516,
+        "Status": "NA"
+    },
+    {
+        " ": 4,
+        "Journalist": "Naval Kishore Das",
+        "Designation": "Correspondent",
+        "Publication": "Aj",
+        "Contact Number": 9801028826,
+        "Status": "NA"
+    },
+    {
+        " ": 16,
+        "Journalist": "Alfaz",
+        "Designation": "Bureau Chief",
+        "Publication": "First Najar",
+        "Contact Number": 7739140555,
+        "Status": "NA"
+    },
+    {
+        " ": 12,
+        "Journalist": "Ashok",
+        "Designation": "Reporter",
+        "Publication": "Dainik Jagran",
+        "Contact Number": 9431087291,
+        "Status": "Switch off"
+    },
+    {
+        " ": 11,
+        "Journalist": "Satish Kumar Mishra",
+        "Designation": "Reporter",
+        "Publication": "Andekhi news",
+        "Contact Number": 9472669039,
+        "Status": "Switch off"
+    },
+    {
+        " ": 29,
+        "Journalist": "Rajan Prabasha Kumar",
+        "Designation": "Editor",
+        "Publication": "Dainik Samachar Patr",
+        "Contact Number": 8651940031,
+        "Status": "NA"
+    },
+    {
+        " ": 19,
+        "Journalist": "Rahul Kumar Singh",
+        "Designation": "Dsitrict Reporter",
+        "Publication": "IBN 7",
+        "Contact Number": 9473312515,
+        "Status": "NA"
+    },
+    {
+        " ": 23,
+        "Journalist": "Amarkumar Sinha",
+        "Designation": "Reporter",
+        "Publication": "NA",
+        "Contact Number": 7763815262,
+        "Status": "NA"
+    },
+    {
+        " ": 17,
+        "Journalist": "Bitta Sinha",
+        "Designation": "Photographer",
+        "Publication": "Hindustan",
+        "Contact Number": "9471852002; 7909029106",
+        "Status": "NA"
+    },
+    {
+        " ": 14,
+        "Journalist": "Bijli Kumar",
+        "Designation": "Reporter",
+        "Publication": "Dainik Jagran",
+        "Contact Number": 8544397602,
+        "Status": "NA"
+    }
+]
