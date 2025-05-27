@@ -1,0 +1,226 @@
+[
+    {
+        "S.No.": "1",
+        "Journalist": "Rajnish Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Jagaran",
+        "Contact Number": "",
+        "": ""
+    },
+    {
+        "S.No.": "4",
+        "Journalist": "Avdesh Kunvar",
+        "Designation": "Correspondent",
+        "Publication": "Press Trust of India",
+        "Contact Number": "9472623572",
+        "": ""
+    },
+    {
+        "S.No.": "6",
+        "Journalist": "Shitanshu Shekar Sinha",
+        "Designation": "Sub-editor",
+        "Publication": "Dainik Jagaran",
+        "Contact Number": "9870171312",
+        "": ""
+    },
+    {
+        "S.No.": "9",
+        "Journalist": "Santosh Kumar (Chayakar)",
+        "Designation": "Press reporter",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9934457077",
+        "": ""
+    },
+    {
+        "S.No.": "11",
+        "Journalist": "Gurudayal Trivikram",
+        "Designation": "Bureau Chief, NA",
+        "Publication": "Doordarshan",
+        "Contact Number": "9471461938",
+        "": ""
+    },
+    {
+        "S.No.": "16",
+        "Journalist": "M Imtiyaz Ashrafi",
+        "Designation": "District Bureau",
+        "Publication": "Sahara Samay",
+        "Contact Number": "9431611401",
+        "": ""
+    },
+    {
+        "S.No.": "18",
+        "Journalist": "Srimati Poonam Kumari",
+        "Designation": "Reporter",
+        "Publication": "Outlook and India Today",
+        "Contact Number": "9431236622",
+        "": ""
+    },
+    {
+        "S.No.": "20",
+        "Journalist": "Prashant Kumar Sinha",
+        "Designation": "Reporter",
+        "Publication": "Zee",
+        "Contact Number": "9835059599",
+        "": ""
+    },
+    {
+        "S.No.": "23",
+        "Journalist": "Manish Kumar",
+        "Designation": "",
+        "Publication": "Live ",
+        "Contact Number": "9431447037",
+        "": ""
+    },
+    {
+        "S.No.": "25",
+        "Journalist": "Rajesh Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "Hindustan",
+        "Contact Number": "9430428478",
+        "": ""
+    },
+    {
+        "S.No.": "26",
+        "Journalist": "Ranagowri Shankar",
+        "Designation": "Office In-charge",
+        "Publication": "Swatantra Patrakar",
+        "Contact Number": "9431091239",
+        "": "call later"
+    },
+    {
+        "S.No.": "27",
+        "Journalist": "Anand Sinha Kowshik",
+        "Designation": "Reporter",
+        "Publication": "Swatantra Patrakar",
+        "Contact Number": "9431091466",
+        "": "call not received"
+    },
+    {
+        "S.No.": "10",
+        "Journalist": "Sadanand Paswan",
+        "Designation": "",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431091238",
+        "": "Switched Off."
+    },
+    {
+        "S.No.": "17",
+        "Journalist": "Krishna Prasad",
+        "Designation": "",
+        "Publication": "Komi Tanjim",
+        "Contact Number": "9470400813",
+        "": "Call not received."
+    },
+    {
+        "S.No.": "19",
+        "Journalist": "SuShalini",
+        "Designation": "",
+        "Publication": "Nai Bat",
+        "Contact Number": "9546023304",
+        "": "call not received."
+    },
+    {
+        "S.No.": "14",
+        "Journalist": "Shafe Ul Haq(Saif)",
+        "Designation": "District Reporter",
+        "Publication": "News 24",
+        "Contact Number": "9473000744",
+        "": "Call not received."
+    },
+    {
+        "S.No.": "12",
+        "Journalist": "Sajjan Kumar Garg(Chayakar)",
+        "Designation": "Reporter",
+        "Publication": "Etv",
+        "Contact Number": "9931554140",
+        "": "Call not received."
+    },
+    {
+        "S.No.": "21",
+        "Journalist": "Sunil Kumar Gupta",
+        "Designation": "",
+        "Publication": "News 24",
+        "Contact Number": "9431472302",
+        "": "Switched off."
+    },
+    {
+        "S.No.": "5",
+        "Journalist": "Naveen Kumar Jha",
+        "Designation": "",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9431446736",
+        "": "Call not received."
+    },
+    {
+        "S.No.": "2",
+        "Journalist": "Naresh Chandra Roy",
+        "Designation": "NA",
+        "Publication": "Abp News",
+        "Contact Number": "9835493205",
+        "": "NA"
+    },
+    {
+        "S.No.": "3",
+        "Journalist": "Kumar Krushan",
+        "Designation": "",
+        "Publication": "Akashvani",
+        "Contact Number": "9304706646",
+        "": "NA"
+    },
+    {
+        "S.No.": "7",
+        "Journalist": "Subodh Sagar(Chayakar)",
+        "Designation": "",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9934223426",
+        "": "NA"
+    },
+    {
+        "S.No.": "8",
+        "Journalist": "Prashant Kumar(Karyalay Prabhari)",
+        "Designation": "",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9430240833",
+        "": "Na"
+    },
+    {
+        "S.No.": "13",
+        "Journalist": "Nisar Ahmed Aasi",
+        "Designation": "",
+        "Publication": "Hindustan",
+        "Contact Number": "06344-222033",
+        "": "NA"
+    },
+    {
+        "S.No.": "15",
+        "Journalist": "Arun Kumar Sharma",
+        "Designation": "",
+        "Publication": "Kashish News",
+        "Contact Number": "9431612913",
+        "": "NA"
+    },
+    {
+        "S.No.": "22",
+        "Journalist": "M.Athhar Khan",
+        "Designation": "",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "8409924323",
+        "": "NA"
+    },
+    {
+        "S.No.": "24",
+        "Journalist": "Pavan Kumar Chowdhary",
+        "Designation": "",
+        "Publication": "Pti",
+        "Contact Number": "9504089570",
+        "": "NA"
+    },
+    {
+        "S.No.": "1",
+        "Journalist": "Kashi Prasad",
+        "Designation": "NA",
+        "Publication": "Aaj",
+        "Contact Number": "9431611060",
+        "": "NA"
+    }
+]
