@@ -1,0 +1,821 @@
+[
+    {
+        "S. No.": "84",
+        "Journalist": "Ashwini Kumar",
+        "Designation": "Bureu Chief",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431290185, 9122002383"
+    },
+    {
+        "S. No.": "1",
+        "Journalist": "Mushraff pallavi",
+        "Designation": "Reporter",
+        "Publication": "Aaj Tak",
+        "Contact Number": "9386722440/9473000104"
+    },
+    {
+        "S. No.": "2",
+        "Journalist": "Dharmendra Kumar",
+        "Designation": "Bureu Chief",
+        "Publication": "Dainik Tarun Mitra",
+        "Contact Number": "8409817620, 7677796090"
+    },
+    {
+        "S. No.": "3",
+        "Journalist": "Sohel Khan",
+        "Designation": "Reporter",
+        "Publication": "Dainik Tarun Mitra",
+        "Contact Number": "9472076726"
+    },
+    {
+        "S. No.": "4",
+        "Journalist": "Praksh Kumar",
+        "Designation": "Reporter",
+        "Publication": "Dainik Tarun Mitra",
+        "Contact Number": "9122322227"
+    },
+    {
+        "S. No.": "5",
+        "Journalist": "Rohit Kumar",
+        "Designation": "Reporter",
+        "Publication": "Dainik Tarun Mitra",
+        "Contact Number": "7739920282"
+    },
+    {
+        "S. No.": "6",
+        "Journalist": "Mahesh Kumar",
+        "Designation": "Bureu Chief",
+        "Publication": "Hindi Dainik Sanmarg",
+        "Contact Number": "9709446421"
+    },
+    {
+        "S. No.": "7",
+        "Journalist": "Dinesh Kumar",
+        "Designation": "Coresspondent",
+        "Publication": "Hindi Dainik Sanmarg",
+        "Contact Number": "9308767261"
+    },
+    {
+        "S. No.": "8",
+        "Journalist": "Bablu Kumar",
+        "Designation": "Reporter(Ghosi)",
+        "Publication": "Hindi Dainik Sanmarg",
+        "Contact Number": "9973332933"
+    },
+    {
+        "S. No.": "9",
+        "Journalist": "Ajit Kumar",
+        "Designation": "Reporter",
+        "Publication": "Hindi Dainik Sanmarg",
+        "Contact Number": "8521486054"
+    },
+    {
+        "S. No.": "10",
+        "Journalist": "Praduman Kumar",
+        "Designation": "Reporter(Hulasganj)",
+        "Publication": "Hindi Dainik Sanmarg",
+        "Contact Number": "8809984444"
+    },
+    {
+        "S. No.": "11",
+        "Journalist": "Kumar Gaurav",
+        "Designation": "Reporter",
+        "Publication": "Hindi Dainik Sanmarg",
+        "Contact Number": "8083938973, 8936851720"
+    },
+    {
+        "S. No.": "12",
+        "Journalist": "Sohel Khan",
+        "Designation": "Reporter",
+        "Publication": "Nav Bihar Times",
+        "Contact Number": "9472076726"
+    },
+    {
+        "S. No.": "13",
+        "Journalist": "Musharraf Pallavi",
+        "Designation": "Reporter",
+        "Publication": "Nav Bihar Times",
+        "Contact Number": "9386722440"
+    },
+    {
+        "S. No.": "16",
+        "Journalist": "Rajnish Sharma",
+        "Designation": "Reporter",
+        "Publication": "Nav Bihar Times",
+        "Contact Number": "7091203608"
+    },
+    {
+        "S. No.": "17",
+        "Journalist": "Shariq Fatah",
+        "Designation": "Reporter",
+        "Publication": "Nav Bihar Times",
+        "Contact Number": "8083866520"
+    },
+    {
+        "S. No.": "27",
+        "Journalist": "Ranjeet Rajan",
+        "Designation": "Reporter",
+        "Publication": "ABP News",
+        "Contact Number": "9431290215"
+    },
+    {
+        "S. No.": "19",
+        "Journalist": "Satendra Kumar",
+        "Designation": "Photographer",
+        "Publication": "Aj",
+        "Contact Number": "9386511363/9097638715"
+    },
+    {
+        "S. No.": "20",
+        "Journalist": "RB Singh",
+        "Designation": "Correspondent",
+        "Publication": "Aj",
+        "Contact Number": "8409839775"
+    },
+    {
+        "S. No.": "21",
+        "Journalist": "Deepak Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Aj",
+        "Contact Number": "9973335474"
+    },
+    {
+        "S. No.": "22",
+        "Journalist": "Santhoesh Kumar Keshri",
+        "Designation": "System",
+        "Publication": "Aj",
+        "Contact Number": "9334302058"
+    },
+    {
+        "S. No.": "23",
+        "Journalist": "Shayan Fatah",
+        "Designation": "Reporter(Makhdumpur)",
+        "Publication": "Aj",
+        "Contact Number": "8083383619"
+    },
+    {
+        "S. No.": "24",
+        "Journalist": "Atul Kumar",
+        "Designation": "Reporter(shukrabad)",
+        "Publication": "Aj",
+        "Contact Number": "7277775401"
+    },
+    {
+        "S. No.": "25",
+        "Journalist": "S.T. Imam",
+        "Designation": "Reporter(Kako)",
+        "Publication": "Aj",
+        "Contact Number": "9934933992"
+    },
+    {
+        "S. No.": "26",
+        "Journalist": "Nikhil Ranjan",
+        "Designation": "Reporter(Hulasganj)",
+        "Publication": "Aj",
+        "Contact Number": "9546381399"
+    },
+    {
+        "S. No.": "28",
+        "Journalist": "Raju Kumar",
+        "Designation": "Editor",
+        "Publication": "Chintan Darpan",
+        "Contact Number": "9334077293"
+    },
+    {
+        "S. No.": "29",
+        "Journalist": "Sudhir Kumar",
+        "Designation": "Reporter",
+        "Publication": "Chintan Darpan",
+        "Contact Number": "9430477389"
+    },
+    {
+        "S. No.": "30",
+        "Journalist": "Mirthunjay Kumar",
+        "Designation": "Bureau chief",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9431208245/89353930812"
+    },
+    {
+        "S. No.": "31",
+        "Journalist": "Mukesh Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9430233085"
+    },
+    {
+        "S. No.": "32",
+        "Journalist": "Ritesh Kumar",
+        "Designation": "Photographer",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9934767377, 9386726088"
+    },
+    {
+        "S. No.": "33",
+        "Journalist": "Vikas Kumar",
+        "Designation": "Reporter(Goshi)",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9122797272"
+    },
+    {
+        "S. No.": "34",
+        "Journalist": "Madan Sharma",
+        "Designation": "Bureau chief",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "8862937521/9431208322"
+    },
+    {
+        "S. No.": "35",
+        "Journalist": "Ambuj Sharma",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9471002256/9973044656"
+    },
+    {
+        "S. No.": "36",
+        "Journalist": "Ramnandan Prasad Sinha",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431476212/7870926089"
+    },
+    {
+        "S. No.": "37",
+        "Journalist": "Amar Nath",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9199922251/9431208322"
+    },
+    {
+        "S. No.": "38",
+        "Journalist": "Arvind Kumar Singh",
+        "Designation": "Reporter",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "80833407726/8271941199"
+    },
+    {
+        "S. No.": "39",
+        "Journalist": "Shambhu Jee",
+        "Designation": "System",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9931516466"
+    },
+    {
+        "S. No.": "40",
+        "Journalist": "Veerbhadra Sinha",
+        "Designation": "Photographer",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9934859362/943062330"
+    },
+    {
+        "S. No.": "41",
+        "Journalist": "Ravi Anand",
+        "Designation": "ADD",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "7759095693"
+    },
+    {
+        "S. No.": "42",
+        "Journalist": "Mukesh Nand Verma",
+        "Designation": "Reporter(Makhdumpur)",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9334113232"
+    },
+    {
+        "S. No.": "43",
+        "Journalist": "Manoj",
+        "Designation": "Reporter(Ratni Fareedpur)",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9931285133"
+    },
+    {
+        "S. No.": "44",
+        "Journalist": "Ritesh Kumar",
+        "Designation": "Reporter(Kako)",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431453222"
+    },
+    {
+        "S. No.": "45",
+        "Journalist": "Kaushlendra Kumar",
+        "Designation": "Reporter(Goshi)",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9931024905"
+    },
+    {
+        "S. No.": "47",
+        "Journalist": "Ranjith Kumar Bhartiya",
+        "Designation": "Reporter(Hulasganj)",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9801830184"
+    },
+    {
+        "S. No.": "48",
+        "Journalist": "Arun Kumar Rudra",
+        "Designation": "Reporter",
+        "Publication": "Doordarshan News",
+        "Contact Number": "9771272289"
+    },
+    {
+        "S. No.": "49",
+        "Journalist": "Rageev Ahsan",
+        "Designation": "Reporter",
+        "Publication": "ETV",
+        "Contact Number": "9431297104"
+    },
+    {
+        "S. No.": "50",
+        "Journalist": "Rajkumar Karyalai",
+        "Designation": "Reporter",
+        "Publication": "Hindustan",
+        "Contact Number": "9431416951"
+    },
+    {
+        "S. No.": "51",
+        "Journalist": "Rajkumar Sharma",
+        "Designation": "Bureau Chief",
+        "Publication": "Hindustan",
+        "Contact Number": "9431416951"
+    },
+    {
+        "S. No.": "52",
+        "Journalist": "Mukesh Kumar Gowtham",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "9431258130"
+    },
+    {
+        "S. No.": "53",
+        "Journalist": "Sanjay Anurag",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "8804918157"
+    },
+    {
+        "S. No.": "54",
+        "Journalist": "Shashikant",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "9771920539"
+    },
+    {
+        "S. No.": "55",
+        "Journalist": "Anil Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "9939728371"
+    },
+    {
+        "S. No.": "56",
+        "Journalist": "Abhishek Kumar",
+        "Designation": "Photographer",
+        "Publication": "Hindustan",
+        "Contact Number": "9472366384"
+    },
+    {
+        "S. No.": "57",
+        "Journalist": "Sushil Singh",
+        "Designation": "Reporter",
+        "Publication": "Hindustan",
+        "Contact Number": "9334660206, 9135265025"
+    },
+    {
+        "S. No.": "58",
+        "Journalist": "Ramesh Kumar",
+        "Designation": "Reporter (Makhdumpur)",
+        "Publication": "Hindustan",
+        "Contact Number": "9471963113, 9852233611"
+    },
+    {
+        "S. No.": "59",
+        "Journalist": "Pankaj Kumar",
+        "Designation": "Reporter(Goshi)",
+        "Publication": "Hindustan",
+        "Contact Number": "9122544366, 9430591852"
+    },
+    {
+        "S. No.": "60",
+        "Journalist": "Manoj Kumar",
+        "Designation": "Reporter(Hulasganj)",
+        "Publication": "Hindustan",
+        "Contact Number": "9931263270"
+    },
+    {
+        "S. No.": "61",
+        "Journalist": "Ramesh Chandra Shastri",
+        "Designation": "Reporter(Shukrabad)",
+        "Publication": "Hindustan",
+        "Contact Number": "9431256929"
+    },
+    {
+        "S. No.": "62",
+        "Journalist": "Kaushlendra Kumar",
+        "Designation": "Reporter (Modanganj)",
+        "Publication": "Hindustan",
+        "Contact Number": "950463532"
+    },
+    {
+        "S. No.": "63",
+        "Journalist": "Tavish Imam",
+        "Designation": "Reporter (Kako)",
+        "Publication": "Hindustan/Inquilab",
+        "Contact Number": "9430541221"
+    },
+    {
+        "S. No.": "64",
+        "Journalist": "Chandra Prakash",
+        "Designation": "Reporter",
+        "Publication": "Imperial Bihar",
+        "Contact Number": "9934484505"
+    },
+    {
+        "S. No.": "65",
+        "Journalist": "Dinesh Kumar",
+        "Designation": "Reporter",
+        "Publication": "India News",
+        "Contact Number": "9308767261/9431830257"
+    },
+    {
+        "S. No.": "66",
+        "Journalist": "Mukesh Kumar",
+        "Designation": "Reporter",
+        "Publication": "India TV",
+        "Contact Number": "9430233085"
+    },
+    {
+        "S. No.": "67",
+        "Journalist": "Kumar Gaurav",
+        "Designation": "Reporter",
+        "Publication": "Kashish News",
+        "Contact Number": "9304022082/9973332495"
+    },
+    {
+        "S. No.": "68",
+        "Journalist": "Hasnain Diwana",
+        "Designation": "Bureu Chief",
+        "Publication": "Quami Tanzeem",
+        "Contact Number": "9931806798/9430410040"
+    },
+    {
+        "S. No.": "69",
+        "Journalist": "Asif Hasnain",
+        "Designation": "Reporter",
+        "Publication": "Quami Tanzeem",
+        "Contact Number": "7903882961"
+    },
+    {
+        "S. No.": "70",
+        "Journalist": "Kasif Hasnain",
+        "Designation": "Reporter",
+        "Publication": "Quami Tanzeem",
+        "Contact Number": "9708776775/943006350"
+    },
+    {
+        "S. No.": "71",
+        "Journalist": "Mansur Alam",
+        "Designation": "Reporter",
+        "Publication": "Quami Tanzeem",
+        "Contact Number": "9931578836"
+    },
+    {
+        "S. No.": "72",
+        "Journalist": "Rajesh Kumar Nedhi",
+        "Designation": "Deputy Editor",
+        "Publication": "Kewal Sach",
+        "Contact Number": "9835049100/9431476972"
+    },
+    {
+        "S. No.": "73",
+        "Journalist": "Naveen Kumar Raushan",
+        "Designation": "District Reporter",
+        "Publication": "Kewal Sach",
+        "Contact Number": "9934039939"
+    },
+    {
+        "S. No.": "74",
+        "Journalist": "Anish Kumar",
+        "Designation": "Reporter",
+        "Publication": "Live India",
+        "Contact Number": "9504703676/9430034248"
+    },
+    {
+        "S. No.": "75",
+        "Journalist": "Sanjay Kumar",
+        "Designation": "Editor",
+        "Publication": "Magadh Vichar",
+        "Contact Number": "9334167615/9973332566"
+    },
+    {
+        "S. No.": "76",
+        "Journalist": "Serbar Mallick",
+        "Designation": "Correspondent",
+        "Publication": "Morning India/Punjab Keshri",
+        "Contact Number": "9097313245, 8210848658"
+    },
+    {
+        "S. No.": "77",
+        "Journalist": "Mukesh Kumar",
+        "Designation": "Reporter",
+        "Publication": "NDTV",
+        "Contact Number": "9430233085/9304030508"
+    },
+    {
+        "S. No.": "78",
+        "Journalist": "Sayed Majhar Imam",
+        "Designation": "Reporter",
+        "Publication": "News Nation",
+        "Contact Number": "7277884656/9473000219"
+    },
+    {
+        "S. No.": "79",
+        "Journalist": "M.Muzafar Imam",
+        "Designation": "Reporter",
+        "Publication": "News-24",
+        "Contact Number": "9431828311"
+    },
+    {
+        "S. No.": "80",
+        "Journalist": "Muzaffar Imam",
+        "Designation": "Reporter",
+        "Publication": "News-24",
+        "Contact Number": "9431828311/9334669949"
+    },
+    {
+        "S. No.": "81",
+        "Journalist": "Siyad Musaraf Imam",
+        "Designation": "Reporter",
+        "Publication": "Pindar",
+        "Contact Number": "9473000104"
+    },
+    {
+        "S. No.": "82",
+        "Journalist": "Sayedh Musharaf Emama",
+        "Designation": "Reporter",
+        "Publication": "Pindar",
+        "Contact Number": "9473000104"
+    },
+    {
+        "S. No.": "83",
+        "Journalist": "Vikram Kumar",
+        "Designation": "Reporter",
+        "Publication": "PNI",
+        "Contact Number": "9470202248/9973663488"
+    },
+    {
+        "S. No.": "85",
+        "Journalist": "Mrityunjay Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431417138"
+    },
+    {
+        "S. No.": "86",
+        "Journalist": "Sanjay Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431083250"
+    },
+    {
+        "S. No.": "87",
+        "Journalist": "Pankaj Sharma",
+        "Designation": "Correspondent",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9852222255"
+    },
+    {
+        "S. No.": "88",
+        "Journalist": "Alok Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9631570019"
+    },
+    {
+        "S. No.": "89",
+        "Journalist": "Raviendra Kumar Sinha",
+        "Designation": "System",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "8863990605"
+    },
+    {
+        "S. No.": "90",
+        "Journalist": "Ashok Kumar",
+        "Designation": "photographer",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "8804922490"
+    },
+    {
+        "S. No.": "91",
+        "Journalist": "Sunil Sharma",
+        "Designation": "Reporter(Goshi)",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431258548"
+    },
+    {
+        "S. No.": "92",
+        "Journalist": "Baikunth Kumar",
+        "Designation": "Reporter (Kako)",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "8271402378/9234217632"
+    },
+    {
+        "S. No.": "93",
+        "Journalist": "Avinesh Kumar",
+        "Designation": "Reporter(Ratini)",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9199802174"
+    },
+    {
+        "S. No.": "94",
+        "Journalist": "Ranjith Kumar",
+        "Designation": "Reporter(Modanganj)",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9771547297"
+    },
+    {
+        "S. No.": "95",
+        "Journalist": "Sunil Kumar",
+        "Designation": "Reporter (Hulashganj)",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9934637172"
+    },
+    {
+        "S. No.": "96",
+        "Journalist": "Santhoesh Kumar Manmohan",
+        "Designation": "Reporter(Makhdumpur)",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9199760683"
+    },
+    {
+        "S. No.": "97",
+        "Journalist": "Deepak Kumar",
+        "Designation": "Editor",
+        "Publication": "Pusphavatika",
+        "Contact Number": "9955772121"
+    },
+    {
+        "S. No.": "98",
+        "Journalist": "Deepak Kumar",
+        "Designation": "Editor",
+        "Publication": "Pusphavatika",
+        "Contact Number": "9955772121/9097306398"
+    },
+    {
+        "S. No.": "99",
+        "Journalist": "Rajesh Pritam",
+        "Designation": "Editor",
+        "Publication": "Pusphavatika",
+        "Contact Number": "9958141364"
+    },
+    {
+        "S. No.": "100",
+        "Journalist": "Rahul Sameera",
+        "Designation": "Reporter",
+        "Publication": "Rashtra Samvda/UT Mirror",
+        "Contact Number": "9934002096"
+    },
+    {
+        "S. No.": "101",
+        "Journalist": "Santosh Srivastav",
+        "Designation": "Reporter",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9470276651"
+    },
+    {
+        "S. No.": "103",
+        "Journalist": "Vijendra Kumar Sudhakar",
+        "Designation": "Coresspondent",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9472120753, 9334439478"
+    },
+    {
+        "S. No.": "104",
+        "Journalist": "Kaushlendra Kumar",
+        "Designation": "Coresspondent",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9199187906, 9334264257"
+    },
+    {
+        "S. No.": "105",
+        "Journalist": "Subodh Kumar",
+        "Designation": "Coresspondent",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9006298072, 7301258135"
+    },
+    {
+        "S. No.": "106",
+        "Journalist": "Ramvindu Prasad Sinha",
+        "Designation": "Coresspondent",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9097073678"
+    },
+    {
+        "S. No.": "107",
+        "Journalist": "Dr. S. K. Sunil",
+        "Designation": "Coresspondent",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9334320896, 9431263954"
+    },
+    {
+        "S. No.": "108",
+        "Journalist": "Priyaranjan",
+        "Designation": "Coresspondent",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9431417125"
+    },
+    {
+        "S. No.": "109",
+        "Journalist": "Sanjay Kumar",
+        "Designation": "Coresspondent",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9852534086"
+    },
+    {
+        "S. No.": "110",
+        "Journalist": "Kumar gaurav",
+        "Designation": "Photographer",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9304022082, 9973332495"
+    },
+    {
+        "S. No.": "111",
+        "Journalist": "Sanni Kumar",
+        "Designation": "System",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "88629403777"
+    },
+    {
+        "S. No.": "112",
+        "Journalist": "Pankaj Kumar",
+        "Designation": "Reporter(Ghosi)",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9525937480"
+    },
+    {
+        "S. No.": "113",
+        "Journalist": "Manohar Kumar",
+        "Designation": "Reporter( Shakurabad)",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9934821797, 7292964003"
+    },
+    {
+        "S. No.": "114",
+        "Journalist": "Vijay Kumar",
+        "Designation": "Reporter( Tehta)",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9304795458"
+    },
+    {
+        "S. No.": "115",
+        "Journalist": "Santosh Pandey",
+        "Designation": "Reporter( Modanganj)",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "8434101858"
+    },
+    {
+        "S. No.": "116",
+        "Journalist": "Priyesh Kumar",
+        "Designation": "Reporter( Makhdumpur)",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "7277767674, 8789585649"
+    },
+    {
+        "S. No.": "117",
+        "Journalist": "Brajesh Kumar",
+        "Designation": "Reporter( Hulasganj)",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9631101151"
+    },
+    {
+        "S. No.": "118",
+        "Journalist": "Gulam Asdak",
+        "Designation": "Reporter",
+        "Publication": "Rojname Rashtriya Sahara, Urdu",
+        "Contact Number": "9430625786/9931070112"
+    },
+    {
+        "S. No.": "119",
+        "Journalist": "Pankaj Kumar",
+        "Designation": "Stringer",
+        "Publication": "Sahara Samay",
+        "Contact Number": "9431271315"
+    },
+    {
+        "S. No.": "121",
+        "Journalist": "Dr Satyendra Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Times of India/ UNI",
+        "Contact Number": "9835800085, 9430009817, 9546149801"
+    },
+    {
+        "S. No.": "122",
+        "Journalist": "Akash Kumar",
+        "Designation": "Reporter",
+        "Publication": "UT Mirror",
+        "Contact Number": "9546900532"
+    },
+    {
+        "S. No.": "123",
+        "Journalist": "Ajit Kumar",
+        "Designation": "Reporter",
+        "Publication": "Zee News/News Express",
+        "Contact Number": "9431297127/9334354626"
+    }
+]
