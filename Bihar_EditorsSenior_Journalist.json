@@ -1,0 +1,347 @@
+[
+  
+    {
+        "S No": 1,
+        "Journalist": "Mukesh Kumar Singh",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 9102300441,
+        "Publication": "ANI"
+    },
+    {
+        "S No": 2,
+        "Journalist": "Nachiketa Narayan",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 8052575532,
+        "Publication": "PTI"
+    },
+    {
+        "S No": 2,
+        "Journalist": "Shivaji",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 9334114994,
+        "Publication": "UNI"
+    },
+    {
+        "S No": 3,
+        "Journalist": "Satyabrat mishra",
+        "Designation": "Chief of Bureau",
+        "Contact Number": " 9263637562",
+        "Publication": "Business Standard (Hindi)"
+    },
+    {
+        "S No": 4,
+        "Journalist": "Amarnath Tiwari",
+        "Designation": "Asst. Editor",
+        "Contact Number": 9431023842,
+        "Publication": "The Hindu"
+    },
+    {
+        "S No": 5,
+        "Journalist": "Piyus Tripathy",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 8294154887,
+        "Publication": "The Times of India"
+    },
+    {
+        "S No": 6,
+        "Journalist": "Vijay Swaroop",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 7781014378,
+        "Publication": "Hindustan Times"
+    },
+    {
+        "S No": 7,
+        "Journalist": "Ramashankar Mishra",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 9431023842,
+        "Publication": "The New Indian Express"
+    },
+    {
+        "S No": 8,
+        "Journalist": "Deepak Mishra",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 9931271838,
+        "Publication": "The Telegraph"
+    },
+    {
+        "S No": 9,
+        "Journalist": "Santosh Singh",
+        "Designation": "Asst. Editor",
+        "Contact Number": "9430676211/ 9955695141",
+        "Publication": "The Indian Express"
+    },
+    {
+        "S No": 10,
+        "Journalist": "Jitendra Kumar Shrivastav",
+        "Designation": "Prinicpal Correspondent",
+        "Contact Number": "9430570960/ 9661902001",
+        "Publication": "The Tribune"
+    },
+    {
+        "Journalist": "Abhay Kumar",
+        "Designation": "Special Correspondent",
+        "Contact Number": 9835041089,
+        "Publication": "Deccan Herald"
+    },
+    {
+        "S No": 11,
+        "Journalist": "Ranjeet Kumar Singh",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 9430570238,
+        "Publication": "Hindustan"
+    },
+    {
+        "S No": 12,
+        "Journalist": "Kumar Rajat",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 9835402177,
+        "Publication": "Dainik Jagran"
+    },
+    {
+        "S No": 13,
+        "Journalist": "Mithilesh",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 9431041867,
+        "Publication": "Prabhat Khabar"
+    },
+    {
+        "S No": 14,
+        "Journalist": "Rakesh Ranjan",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 9430677344,
+        "Publication": "Dainik Bhaskar"
+    },
+    {
+        "S No": 15,
+        "Journalist": "Deepak Pandey",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 9431079808,
+        "Publication": "Aj"
+    },
+    {
+        "S No": 16,
+        "Journalist": "Sanjay Tripathi",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 9934360369,
+        "Publication": "Rashtriya Sahara"
+    },
+    {
+        "Journalist": "Prem Shankar",
+        "Designation": "Editor",
+        "Contact Number": 9431170643,
+        "Publication": "Sanmarg"
+    },
+    {
+        "S No": 17,
+        "Journalist": "Manoj Kumar",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 9431269167,
+        "Publication": "Sanmarg"
+    },
+    {
+        "S No": 18,
+        "Journalist": "Santosh Ranjan",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 8552262829,
+        "Publication": "Amritvarsha"
+    },
+    {
+        "S No": 19,
+        "Journalist": "Imran Sagir",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 9431688039,
+        "Publication": "QT"
+    },
+    {
+        "S No": 20,
+        "Journalist": "Zarrin Fatima",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 9386106161,
+        "Publication": "Inquilab "
+    },
+    {
+        "S No": 21,
+        "Journalist": "Dilip Singh",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 8789544385,
+        "Publication": "Rashtriya Sagar"
+    },
+    {
+        "S No": 22,
+        "Journalist": "Ayush Prakhar",
+        "Designation": "Chief of Bureau",
+        "Contact Number": 8538973100,
+        "Publication": "News Street"
+    },
+    {
+        "Journalist": "Brajesh Mishra",
+        "Designation": "Editor",
+        "Contact Number": 9431073769,
+        "Publication": "Keval Sach"
+    },
+    {
+        "Journalist": "Aazad Gandhi",
+        "Designation": "Editor",
+        "Contact Number": 9431061062,
+        "Publication": "The Kurra Tanjim"
+    },
+    {
+        "S No": "TV"
+    },
+    {
+        "Journalist": "Dipak Priyadarshi",
+        "Designation": "Bureau Chief",
+        "Contact Number": 9431019173,
+        "Publication": "News 18"
+    },
+    {
+        "Journalist": "Rajnish Kumar",
+        "Designation": "Sr Reporter",
+        "Contact Number": 7549844005,
+        "Publication": "News 18"
+    },
+    {
+        "Journalist": "Prabhakar Kumar",
+        "Designation": "Editor",
+        "Contact Number": 9431012712,
+        "Publication": "News 18 Bihar"
+    },
+    {
+        "Journalist": "Sanjay Kumar",
+        "Designation": "Sr Reporter",
+        "Contact Number": 7903420291,
+        "Publication": "Zee News"
+    },
+    {
+        "Journalist": "Swyam Prakash",
+        "Designation": "Editor",
+        "Contact Number": 9471861160,
+        "Publication": "Zee Bihar Jharkhand"
+    },
+    {
+        "Journalist": "Sanotsh Kumar Singh",
+        "Designation": "Sr Reporter",
+        "Contact Number": 8873002291,
+        "Publication": "Kashish News"
+    },
+    {
+        "Journalist": "Ashutosh Kumar",
+        "Designation": "Sr Reporter",
+        "Contact Number": 9431017820,
+        "Publication": "Sahara Samay"
+    },
+    {
+        "Journalist": "Sujeet Gupta",
+        "Designation": "Reporter Danapur Prakhand",
+        "Contact Number": "9973254997/7004554069",
+        "Publication": "Aaj Tak"
+    },
+    {
+        "Journalist": "Sujeet Jha",
+        "Designation": "Bureau Chief",
+        "Contact Number": "9939560000/ 9431024451",
+        "Publication": "Aaj Tak"
+    },
+    {
+        "Journalist": "Rohit Singh",
+        "Designation": "Deputy Bureau Chief",
+        "Contact Number": 9471000604,
+        "Publication": "Aaj Tak"
+    },
+    {
+        "Journalist": "Praksh Kumar Singh",
+        "Designation": "Bureau Chief",
+        "Contact Number": "9431025029/ 9431020682/7004071733",
+        "Publication": "ABP"
+    },
+    {
+        "Journalist": "Nidhi Shree",
+        "Designation": "Reporter",
+        "Contact Number": 9792327150,
+        "Publication": "ABP"
+    },
+    {
+        "Journalist": "Prakash Singh",
+        "Designation": "Senior Editor",
+        "Contact Number": 9934907200,
+        "Publication": "Republic Bharat",
+        "__EMPTY": " "
+    },
+    {
+        "Publication": "News Nation"
+    },
+    {
+        "Journalist": "Amitabh Ojha",
+        "Designation": "Associate Editor",
+        "Contact Number": 9431025430,
+        "Publication": "News 24"
+    },
+    {
+        "Journalist": "Saurabh Kumar",
+        "Designation": "Special Correspondent",
+        "Contact Number": 9431821002,
+        "Publication": "News 24"
+    },
+    {
+        "Journalist": "Nitish Chandra ",
+        "Designation": "Senior Special Correspondnt",
+        "Contact Number": 9431020932,
+        "Publication": "India TV"
+    },
+    {
+        "Journalist": "Manish Kumar",
+        "Designation": "Senior Correspondent",
+        "Publication": "NDTV"
+    },
+    {
+        "Journalist": "Rupesh Kumar",
+        "Designation": "Special Correspondent",
+        "Contact Number": 9304534320,
+        "Publication": "TV9 Bharatvarsh"
+    },
+    {
+        "S No": "Online"
+    },
+    {
+        "Journalist": "Gyaneshwar Vatsyayan",
+        "Designation": "Editor",
+        "Contact Number": 9031060000,
+        "Publication": "Live Cities"
+    },
+    {
+        "Journalist": "Kumar Prabodh",
+        "Designation": "Editor",
+        "Contact Number": "062047 51377",
+        "Publication": "News 4 Nation"
+    },
+    {
+        "Journalist": "Prashant Ray",
+        "Designation": "Editor",
+        "Contact Number": "099710 91514",
+        "Publication": "Janata Junction"
+    },
+    {
+        "Journalist": "Kaushlendra Priyadarshi",
+        "Designation": "Editor",
+        "Publication": "First Bihar"
+    },
+    {
+        "Contact Number": " 98212 73355",
+        "Publication": "Live Bihar News"
+    },
+    {
+        "Publication": "Patrika News"
+    },
+    {
+        "Journalist": "Kanhaiya Bhelari",
+        "Designation": "Editor",
+        "Contact Number": 9431442696,
+        "Publication": "News Hatt"
+    },
+    {
+        "Journalist": "Ved Prakash",
+        "Designation": "Editor",
+        "Contact Number": 9835251400,
+        "Publication": "The Activist"
+    }
+]
