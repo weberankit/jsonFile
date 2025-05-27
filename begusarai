@@ -1,0 +1,314 @@
+[
+    {
+        "S. No.": "1",
+        "Journalist": "Rupesh Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9334521840",
+        "": ""
+    },
+    {
+        "S. No.": "2",
+        "Journalist": "Bipin Kumar Mishra",
+        "Designation": "Bureau Chief",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431203339",
+        "": ""
+    },
+    {
+        "S. No.": "3",
+        "Journalist": "Kumar Bhavesh",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "7903988188",
+        "": ""
+    },
+    {
+        "S. No.": "4",
+        "Journalist": "Smit Parag",
+        "Designation": "Bureau Chief",
+        "Publication": "Hindustan",
+        "Contact Number": "8986141166",
+        "": ""
+    },
+    {
+        "S. No.": "5",
+        "Journalist": "Agni Shekhar",
+        "Designation": "Bureau Chief",
+        "Publication": "Aaj",
+        "Contact Number": "9430066866",
+        "": ""
+    },
+    {
+        "S. No.": "6",
+        "Journalist": "Sumith Kumar Simh",
+        "Designation": "Bureau Chief",
+        "Publication": "Rastriya Sahara",
+        "Contact Number": "9852625618",
+        "": ""
+    },
+    {
+        "S. No.": "7",
+        "Journalist": "Mahafujur Rashid",
+        "Designation": "Bureau Chief",
+        "Publication": "Quami Tanzeem",
+        "Contact Number": "9199478020",
+        "": ""
+    },
+    {
+        "S. No.": "8",
+        "Journalist": "Sumit Vats",
+        "Designation": "Bureau Chief",
+        "Publication": "City News Begusarai",
+        "Contact Number": "9471978100",
+        "": ""
+    },
+    {
+        "S. No.": "9",
+        "Journalist": "Dhananjay Jha",
+        "Designation": "Reporter",
+        "Publication": "ABP News ",
+        "Contact Number": "9931644412 ,9472400000",
+        "": ""
+    },
+    {
+        "S. No.": "10",
+        "Journalist": "Rajiv Kumar",
+        "Designation": "Reporter",
+        "Publication": "Zee Bihar",
+        "Contact Number": "9534781422",
+        "": ""
+    },
+    {
+        "S. No.": "11",
+        "Journalist": "Saurabh Kumar",
+        "Designation": "Reporter",
+        "Publication": "Aaj Tak",
+        "Contact Number": "8409738572",
+        "": ""
+    },
+    {
+        "S. No.": "12",
+        "Journalist": "Santosh Srivastav",
+        "Designation": "Reporter",
+        "Publication": "NDTV",
+        "Contact Number": "8210856860",
+        "": ""
+    },
+    {
+        "S. No.": "27",
+        "Journalist": "Danshayam Jha",
+        "Designation": "District Correspondent",
+        "Publication": "PTN",
+        "Contact Number": "941251121",
+        "": ""
+    },
+    {
+        "S. No.": "28",
+        "Journalist": "Jitendra Kumar",
+        "Designation": "Reporter",
+        "Publication": "P7 Channel",
+        "Contact Number": "8986145857",
+        "": ""
+    },
+    {
+        "S. No.": "13",
+        "Journalist": "Kanhaiya Kumar Jha",
+        "Designation": "Reporter",
+        "Publication": "News Nation",
+        "Contact Number": "9431237283",
+        "": ""
+    },
+    {
+        "S. No.": "31",
+        "Journalist": "Pawan Bandhu",
+        "Designation": "Reporter",
+        "Publication": "Sahara Samay",
+        "Contact Number": "9835226753",
+        "": ""
+    },
+    {
+        "S. No.": "14",
+        "Journalist": "Ravi Sankar Sharma",
+        "Designation": "Editor",
+        "Publication": "Rastriya Sahara",
+        "Contact Number": "9431077973",
+        "": ""
+    },
+    {
+        "S. No.": "15",
+        "Journalist": "Sandeep Kumar",
+        "Designation": "District Correspondent",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "8252473740, 8271985307",
+        "": ""
+    },
+    {
+        "S. No.": "16",
+        "Journalist": "Sumit Kumar",
+        "Designation": "Photo Journalist",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "8271496808, 7903485518",
+        "": ""
+    },
+    {
+        "S. No.": "17",
+        "Journalist": "Sanjeet Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "9308004443",
+        "": ""
+    },
+    {
+        "S. No.": "18",
+        "Journalist": "Siddhart Suman",
+        "Designation": "Reporter",
+        "Publication": "Hindustan",
+        "Contact Number": "9934216165",
+        "": ""
+    },
+    {
+        "S. No.": "19",
+        "Journalist": "Suraj Kumar",
+        "Designation": "Reporter",
+        "Publication": "Hindustan",
+        "Contact Number": "9431238332",
+        "": ""
+    },
+    {
+        "S. No.": "20",
+        "Journalist": "Sri Krishna Mishra",
+        "Designation": "Reporter",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9471235969, 9934810512",
+        "": ""
+    },
+    {
+        "S. No.": "21",
+        "Journalist": "Rajeev Kumar Sharma",
+        "Designation": "Reporter",
+        "Publication": "Hamari Najar",
+        "Contact Number": "9934730147",
+        "": ""
+    },
+    {
+        "S. No.": "22",
+        "Journalist": "Dallu Kumar Ray",
+        "Designation": "Photographer",
+        "Publication": "Quami Tanzeem",
+        "Contact Number": "9939802719",
+        "": ""
+    },
+    {
+        "S. No.": "23",
+        "Journalist": "Gopallav Jha",
+        "Designation": "Photographer",
+        "Publication": "Quami Tanzeem",
+        "Contact Number": "9525915233",
+        "": ""
+    },
+    {
+        "S. No.": "24",
+        "Journalist": "Mo0 Farog Urarhaman",
+        "Designation": "Reporter",
+        "Publication": "Quami Tanzeem",
+        "Contact Number": "9430833287",
+        "": ""
+    },
+    {
+        "S. No.": "25",
+        "Journalist": "Mo0 Sakhil Raja",
+        "Designation": "Sub Divison Reporter",
+        "Publication": "Quami Tanzeem",
+        "Contact Number": "8864063705",
+        "": ""
+    },
+    {
+        "S. No.": "26",
+        "Journalist": "Suman Jha",
+        "Designation": "Photographer",
+        "Publication": "Quami Tanzeem",
+        "Contact Number": "8541019700",
+        "": ""
+    },
+    {
+        "S. No.": "29",
+        "Journalist": "Utpal Kumar",
+        "Designation": "Reporter",
+        "Publication": "Aryan News Express",
+        "Contact Number": "9430475339",
+        "": ""
+    },
+    {
+        "S. No.": "30",
+        "Journalist": "Ghanshyam Jha",
+        "Designation": "Reporter",
+        "Publication": "Pti & Begusarai Times",
+        "Contact Number": "9431251121",
+        "": ""
+    },
+    {
+        "S. No.": "32",
+        "Journalist": "Manish Kumar",
+        "Designation": "Crime Reporter",
+        "Publication": "Sandhya Times &Dainik Jagran",
+        "Contact Number": "9572385800",
+        "": ""
+    },
+    {
+        "S. No.": "33",
+        "Journalist": "Ashant Bhola",
+        "Designation": "Editor",
+        "Publication": "Sarzami News Weekly",
+        "Contact Number": "9939254475",
+        "": ""
+    },
+    {
+        "S. No.": "34",
+        "Journalist": "Prashant Kumar",
+        "Designation": "Reporter",
+        "Publication": "Taaza Tv",
+        "Contact Number": "9472485405",
+        "": ""
+    },
+    {
+        "S. No.": "35",
+        "Journalist": "Kamal Naayan",
+        "Designation": "Editor",
+        "Publication": "Apna Bihar",
+        "Contact Number": "9122511214",
+        "": ""
+    },
+    {
+        "S. No.": "36",
+        "Journalist": "Shayak Alok",
+        "Designation": "Sub-Editor",
+        "Publication": "City News",
+        "Contact Number": "7870965613",
+        "": ""
+    },
+    {
+        "S. No.": "37",
+        "Journalist": "Raman Kumar",
+        "Designation": "Reporter",
+        "Publication": "Dusra Mat",
+        "Contact Number": "9835414403",
+        "": ""
+    },
+    {
+        "S. No.": "38",
+        "Journalist": "Prince Raza",
+        "Designation": "Bureau Chief",
+        "Publication": "Farooqui Tanzeem",
+        "Contact Number": "9308167252 9546300000",
+        "": ""
+    },
+    {
+        "S. No.": "39",
+        "Journalist": "Anuj Verma",
+        "Designation": "District Reporter",
+        "Publication": "Prasaar Bharti",
+        "Contact Number": "9472486564",
+        "": ""
+    }
+]
