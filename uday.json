@@ -1,0 +1,144 @@
+[
+    {
+        "S.No.": 1,
+        "Journalist": "Uday",
+        "Designation": "Owner",
+        "Publication": "Janta Ka Reporter",
+        "Contact Number": "73408 09712",
+        "Website": "http://www.jantakareporter.com/"
+    },
+    {
+        "S.No.": 2,
+        "Journalist": "Naman Mishra",
+        "Designation": "Editor",
+        "Publication": "News Bihar Live",
+        "Contact Number": "87899 62026",
+        "Website": "http://newsbiharlive.com/"
+    },
+    {
+        "S.No.": 3,
+        "Journalist": "Creation Media",
+        "Designation": "Owner",
+        "Publication": "Creation Media",
+        "Contact Number": 9334285420,
+        "Website": "Creation Media"
+    },
+    {
+        "S.No.": 4,
+        "Journalist": "Vikas",
+        "Designation": "Editor",
+        "Publication": "Jharkhandbihar.Com",
+        "Contact Number": "74884 55222",
+        "Website": "http://jharkhandbihar.com/"
+    },
+    {
+        "S.No.": 5,
+        "Journalist": "Ratnesh Kumar",
+        "Designation": "Owner",
+        "Publication": "raajniti.In",
+        "Contact Number": "9534900999; 8210540326",
+        "Website": "http://www.raajniti.in"
+    },
+    {
+        "S.No.": 6,
+        "Journalist": "Indofast",
+        "Designation": "Owner",
+        "Publication": "Indofast",
+        "Contact Number": 7488444888,
+        "Website": "www.indofast.org"
+    },
+    {
+        "S.No.": 7,
+        "Journalist": "Deshbhoomi",
+        "Designation": "Owner",
+        "Publication": "Deshbhoomi",
+        "Contact Number": 9555222563,
+        "Website": "Deshbhoomi Digital Media"
+    },
+    {
+        "S.No.": 8,
+        "Journalist": "Tngp Media House",
+        "Designation": "Owner",
+        "Publication": "Tngp Media House",
+        "Contact Number": 9386816700,
+        "Website": "http://tngp.in/"
+    },
+    {
+        "S.No.": 9,
+        "Journalist": "Manish Anand",
+        "Designation": "News Head",
+        "Publication": "Kashish News",
+        "Contact Number": "9297922234; 9297922235",
+        "Website": "https://www.kashishnews.com/"
+    },
+    {
+        "S.No.": 10,
+        "Journalist": "Square Media Network",
+        "Designation": "Owner",
+        "Publication": "Square Media Network",
+        "Contact Number": 918521000000,
+        "Website": "http://www.squaremedianetwork.com"
+    },
+    {
+        "S.No.": 11,
+        "Journalist": "Antesh",
+        "Designation": "Owner",
+        "Publication": "Live Bihar",
+        "Contact Number": "9716386075; 8873031818",
+        "Website": "https://www.biharlive.in"
+    },
+    {
+        "S.No.": 12,
+        "Journalist": "ETV",
+        "Publication": "ETV",
+        "Contact Number": 9334112991,
+        "Website": "http://www.etvbihar.in/"
+    },
+    {
+        "S.No.": 13,
+        "Journalist": "Rakesh",
+        "Designation": "Editor",
+        "Publication": "Bihar News Live",
+        "Contact Number": 7004600527,
+        "Website": "http://www.biharnewslive.com"
+    },
+    {
+        "S.No.": 14,
+        "Journalist": "Sameer",
+        "Designation": "Director",
+        "Publication": "Bhagalpur Now",
+        "Contact Number": 7050011118,
+        "Website": "https://bhagalpurnow.com/"
+    },
+    {
+        "S.No.": 15,
+        "Journalist": "Ranchi Express",
+        "Publication": "Ranchi Express",
+        "Contact Number": 9431114700,
+        "Website": "http://ranchiexpress.com/"
+    },
+    {
+        "S.No.": 16,
+        "Journalist": "Ajay Kumar",
+        "Designation": "Editor",
+        "Publication": "Bihar Times",
+        "Contact Number": "0612-2273080, 9334742670",
+        "Website": "http://www.bihartimes.in/"
+    },
+    {
+        "S.No.": 17,
+        "Journalist": "Rohit Kumar",
+        "Designation": "Editor",
+        "Publication": "Gaya News",
+        "Contact Number": "9031731260; 9039248024",
+        "Website": "gayanews.in"
+    },
+    {
+        "S.No.": 18,
+        "Journalist": "Sunil Kumar Jha",
+        "Designation": "Founder Member",
+        "Publication": "Esamaad",
+        "Contact Number": 8084566672,
+        "Website": "http://www.esamaad.com/"
+    }
+]
