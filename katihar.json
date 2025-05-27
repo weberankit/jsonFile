@@ -1,0 +1,240 @@
+[
+    {
+        "g": "1",
+        "Journalist": "Niranjan Kumar Singh",
+        "Designation": "Sr. Correspondent",
+        "Publication": "ABP News",
+        "Contact Number": "9431867806"
+    },
+    {
+        "g": "2",
+        "Journalist": "Rajarathna Kamal",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9838800577\n 9431229217"
+    },
+    {
+        "g": "15",
+        "Journalist": "Raj Kishore",
+        "Designation": "Bureau Chief",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9934891176"
+    },
+    {
+        "g": "3",
+        "Journalist": "Jithendra Jaiswal",
+        "Designation": "Videographer",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "8210450858"
+    },
+    {
+        "g": "4",
+        "Journalist": "Prakash",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9471422888"
+    },
+    {
+        "g": "5",
+        "Journalist": "Shyam Kumar",
+        "Designation": "Reporter",
+        "Publication": "NDTV",
+        "Contact Number": "9431292129"
+    },
+    {
+        "g": "6",
+        "Journalist": "Neeraj Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431425351"
+    },
+    {
+        "g": "7",
+        "Journalist": "Pradeep",
+        "Designation": "Videographer",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431087348"
+    },
+    {
+        "g": "8",
+        "Journalist": "Subhath Guha ",
+        "Designation": "Correspondent",
+        "Publication": "Network 18",
+        "Contact Number": "9431807189"
+    },
+    {
+        "g": "9",
+        "Journalist": "Vinay Mishra",
+        "Designation": "Bureau Chief",
+        "Publication": "Hindustan",
+        "Contact Number": "9431288338"
+    },
+    {
+        "g": "10",
+        "Journalist": "Om Prakash amuj",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "9430277152"
+    },
+    {
+        "g": "11",
+        "Journalist": "Vijay Bharti",
+        "Designation": "Correspondent",
+        "Publication": " Daink Aaj",
+        "Contact Number": "9470201369"
+    },
+    {
+        "g": "12",
+        "Journalist": "Rakesh Kumar Patak",
+        "Designation": "Bureau Chief",
+        "Publication": "Daink Aaj",
+        "Contact Number": "9431472661"
+    },
+    {
+        "g": "13",
+        "Journalist": "Ritesh Ranjan",
+        "Designation": "Correspondent",
+        "Publication": "Kashish News",
+        "Contact Number": "9470899237"
+    },
+    {
+        "g": "16",
+        "Journalist": "Suraj Gupta",
+        "Designation": "Correspondent",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431412159"
+    },
+    {
+        "g": "17",
+        "Journalist": "Sayedh Shadhab",
+        "Designation": "Correspondent",
+        "Publication": "PTN News",
+        "Contact Number": "9431222548"
+    },
+    {
+        "g": "18",
+        "Journalist": "Suman Sharma",
+        "Designation": "Reporter",
+        "Publication": "AJAY BHARAT",
+        "Contact Number": "9939703370 \n 9471015115"
+    },
+    {
+        "g": "21",
+        "Journalist": "Nath Jha",
+        "Designation": "Correspondent",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9431281398"
+    },
+    {
+        "g": "22",
+        "Journalist": "Goutam",
+        "Designation": "Videographer",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "8051718882"
+    },
+    {
+        "g": "23",
+        "Journalist": "Rajnish Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Sahara Samay",
+        "Contact Number": "9431452544"
+    },
+    {
+        "g": "24",
+        "Journalist": "Sarafara",
+        "Designation": "Correspondent",
+        "Publication": "Sinambala News",
+        "Contact Number": "9431404202"
+    },
+    {
+        "g": "25",
+        "Journalist": "Rajiv ranjan",
+        "Designation": "Correspondent",
+        "Publication": "Zee News",
+        "Contact Number": "9122030222"
+    },
+    {
+        "g": "26",
+        "Journalist": "Pradeep Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431087342"
+    },
+    {
+        "g": "27",
+        "Journalist": "Ravi Yadav",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "8709667796"
+    },
+    {
+        "g": "28",
+        "Journalist": "Rakesh Pathak",
+        "Designation": "Reporter",
+        "Publication": " Aaj",
+        "Contact Number": "9431472661"
+    },
+    {
+        "g": "29",
+        "Journalist": "Jamiluddin",
+        "Designation": "Reporter",
+        "Publication": "Rojanama Rashtriya Sahara",
+        "Contact Number": "9304347793"
+    },
+    {
+        "g": "30",
+        "Journalist": "Shahbuddin",
+        "Designation": "Reporter",
+        "Publication": "Kaumi Tanzim",
+        "Contact Number": "8986591169"
+    },
+    {
+        "g": "31",
+        "Journalist": "Kumar Mukesh Chaudhary",
+        "Designation": "Reporter",
+        "Publication": "Doordarshan",
+        "Contact Number": "9431610514"
+    },
+    {
+        "g": "32",
+        "Journalist": "Rajneesh",
+        "Designation": "Reporter",
+        "Publication": "Sahara Samay",
+        "Contact Number": "9431472544"
+    },
+    {
+        "g": "33",
+        "Journalist": "Subrat Guha",
+        "Designation": "Reporter",
+        "Publication": "News 18",
+        "Contact Number": "9431867169"
+    },
+    {
+        "g": "34",
+        "Journalist": "Rajeev Ranjan",
+        "Designation": "Reporter",
+        "Publication": "Zee Media",
+        "Contact Number": "9473449434"
+    },
+    {
+        "g": "35",
+        "Journalist": "Vipul Rahul",
+        "Designation": "Reporter",
+        "Publication": "Aajtak",
+        "Contact Number": "9431445380"
+    },
+    {
+        "g": "36",
+        "Journalist": "Ramesh Misha",
+        "Designation": "Reporter",
+        "Publication": "netwoek ",
+        "Contact Number": "9430927890"
+    },
+    {
+        "g": "",
+        "Journalist": "rajan ",
+        "Designation": "reporter",
+        "Publication": "pti",
+        "Contact Number": ""
+    }
+]
