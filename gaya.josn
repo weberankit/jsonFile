@@ -1,0 +1,402 @@
+[
+    {
+        "Sr. No.": "6",
+        "Journalist": "Kanchan Kumar Sinha",
+        "Designation": "Bureau Chief",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431416311",
+        "": ""
+    },
+    {
+        "Sr. No.": "28",
+        "Journalist": "Kamal Nain",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431416310",
+        "": ""
+    },
+    {
+        "Sr. No.": "33",
+        "Journalist": "Akshay Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "Aaj Samachar",
+        "Contact Number": "7631951538",
+        "": ""
+    },
+    {
+        "Sr. No.": "1",
+        "Journalist": "Pankaj Kumar",
+        "Designation": "Reporter",
+        "Publication": "Aaj Tak",
+        "Contact Number": "9470447170",
+        "": ""
+    },
+    {
+        "Sr. No.": "19",
+        "Journalist": "Vimlendu",
+        "Designation": "Reporte",
+        "Publication": "Aaj Tak",
+        "Contact Number": "9431225795",
+        "": ""
+    },
+    {
+        "Sr. No.": "22",
+        "Journalist": "Ajit",
+        "Designation": "Reporter",
+        "Publication": "ABP",
+        "Contact Number": "9934290663",
+        "": ""
+    },
+    {
+        "Sr. No.": "21",
+        "Journalist": "Dheeraj",
+        "Designation": "Reporter",
+        "Publication": "Zee News",
+        "Contact Number": "9431070344",
+        "": ""
+    },
+    {
+        "Sr. No.": "27",
+        "Journalist": "Jai Prakash Kumar",
+        "Designation": "Reporter",
+        "Publication": "zee",
+        "Contact Number": "7488104706",
+        "": ""
+    },
+    {
+        "Sr. No.": "2",
+        "Journalist": "Sadata Anwar",
+        "Designation": "Reporter",
+        "Publication": "News 24",
+        "Contact Number": "9431297048",
+        "": ""
+    },
+    {
+        "Sr. No.": "15",
+        "Journalist": "Lily",
+        "Designation": "Reporter",
+        "Publication": "News 18",
+        "Contact Number": "7870255550",
+        "": ""
+    },
+    {
+        "Sr. No.": "20",
+        "Journalist": "Pradeep",
+        "Designation": "Reporter",
+        "Publication": "Kashish News",
+        "Contact Number": "9430840125",
+        "": ""
+    },
+    {
+        "Sr. No.": "",
+        "Journalist": "Alok Kumar",
+        "Designation": "Reporter",
+        "Publication": "Times of India",
+        "Contact Number": "9431272014",
+        "": ""
+    },
+    {
+        "Sr. No.": "17",
+        "Journalist": "Sartaj",
+        "Designation": "Reporter",
+        "Publication": "Etv Bharat",
+        "Contact Number": "7277205130",
+        "": ""
+    },
+    {
+        "Sr. No.": "3",
+        "Journalist": "Sami Ahmad",
+        "Designation": "News Editor",
+        "Publication": "Hindustan",
+        "Contact Number": "9431013600",
+        "": ""
+    },
+    {
+        "Sr. No.": "9",
+        "Journalist": "Abdul Qadir",
+        "Designation": "Reporter",
+        "Publication": "The Telegraph",
+        "Contact Number": "9931711024",
+        "": ""
+    },
+    {
+        "Sr. No.": "10",
+        "Journalist": "Suman Bhandari",
+        "Designation": "Photographer",
+        "Publication": "The Telegraph",
+        "Contact Number": "9771508370",
+        "": ""
+    },
+    {
+        "Sr. No.": "11",
+        "Journalist": "Manoranjan",
+        "Designation": "Reporter",
+        "Publication": "Hindustan",
+        "Contact Number": "7543072792\n 9334692792",
+        "": ""
+    },
+    {
+        "Sr. No.": "12",
+        "Journalist": "Neeraj",
+        "Designation": "Reporter",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9934638225",
+        "": ""
+    },
+    {
+        "Sr. No.": "13",
+        "Journalist": "Akshay",
+        "Designation": "Reporter",
+        "Publication": "Aaj",
+        "Contact Number": "7631951537",
+        "": ""
+    },
+    {
+        "Sr. No.": "14",
+        "Journalist": "Kamlesh",
+        "Designation": "Editor",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9430840100",
+        "": ""
+    },
+    {
+        "Sr. No.": "16",
+        "Journalist": "Bhandri ji",
+        "Designation": "Photographer",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431095268",
+        "": ""
+    },
+    {
+        "Sr. No.": "18",
+        "Journalist": "Subhash",
+        "Designation": "Reporter",
+        "Publication": "MCN News",
+        "Contact Number": "9431084596",
+        "": ""
+    },
+    {
+        "Sr. No.": "23",
+        "Journalist": "Taufiq Raza",
+        "Designation": "Reporter",
+        "Publication": "Gaya Darshan",
+        "Contact Number": "8210327240",
+        "": ""
+    },
+    {
+        "Sr. No.": "26",
+        "Journalist": "Surya Pratap",
+        "Designation": "Reporter",
+        "Publication": "ANI",
+        "Contact Number": "9431264234",
+        "": ""
+    },
+    {
+        "Sr. No.": "31",
+        "Journalist": "Prasanjit",
+        "Designation": "Reporter",
+        "Publication": "Bihar observer",
+        "Contact Number": "9031551354",
+        "": ""
+    },
+    {
+        "Sr. No.": "32",
+        "Journalist": "Kanchan Kumar Sinha",
+        "Designation": "Bureau Chief",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431416311",
+        "": ""
+    },
+    {
+        "Sr. No.": "34",
+        "Journalist": "Abdul Kadir",
+        "Designation": "Reporter",
+        "Publication": "National Herald",
+        "Contact Number": "9931711024",
+        "": ""
+    },
+    {
+        "Sr. No.": "36",
+        "Journalist": "Pankaj Sinha",
+        "Designation": "Reporter",
+        "Publication": "News Agency",
+        "Contact Number": "9939920515",
+        "": ""
+    },
+    {
+        "Sr. No.": "41",
+        "Journalist": "Nityam",
+        "Designation": "Reporter",
+        "Publication": "VBCN Local",
+        "Contact Number": "9472117888",
+        "": ""
+    },
+    {
+        "Sr. No.": "42",
+        "Journalist": "Rakesh Mikki",
+        "Designation": "Reporter",
+        "Publication": "Hindustan",
+        "Contact Number": "9939646246",
+        "": ""
+    },
+    {
+        "Sr. No.": "43",
+        "Journalist": "Alyn leli",
+        "Designation": "Rporter",
+        "Publication": "News 18",
+        "Contact Number": "9470447170",
+        "": ""
+    },
+    {
+        "Sr. No.": "44",
+        "Journalist": "Devvrat Mandal",
+        "Designation": "Reporter",
+        "Publication": "Magadh Live ",
+        "Contact Number": "8789560936",
+        "": ""
+    },
+    {
+        "Sr. No.": "46",
+        "Journalist": "Kaushlendra Kumar",
+        "Designation": "Reporter",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9931414041",
+        "": ""
+    },
+    {
+        "Sr. No.": "47",
+        "Journalist": "Mohammad Ali",
+        "Designation": "Reporter",
+        "Publication": "Sahara Urdu",
+        "Contact Number": "9934479474",
+        "": ""
+    },
+    {
+        "Sr. No.": "48",
+        "Journalist": "Ajay Kumar",
+        "Designation": "",
+        "Publication": "PTI",
+        "Contact Number": "9006537111",
+        "": ""
+    },
+    {
+        "Sr. No.": "8",
+        "Journalist": "Ajay Kumar Bhushan",
+        "Designation": "Reporter",
+        "Publication": "Sanmarg",
+        "Contact Number": "9430840110",
+        "": ""
+    },
+    {
+        "Sr. No.": "49",
+        "Journalist": "Sanjeev Kumar Suman",
+        "Designation": "Reporter",
+        "Publication": "Punjab Kesari",
+        "Contact Number": "9430564313",
+        "": "patna"
+    },
+    {
+        "Sr. No.": "50",
+        "Journalist": "Rajesh Kumar",
+        "Designation": "Reporter",
+        "Publication": "Punjab Kesari",
+        "Contact Number": "9771405555",
+        "": "patna"
+    },
+    {
+        "Sr. No.": "4",
+        "Journalist": "Arun Abhi",
+        "Designation": "Senior Photographer",
+        "Publication": "Hindustan",
+        "Contact Number": "9430251518",
+        "": ""
+    },
+    {
+        "Sr. No.": "45",
+        "Journalist": "Prabhanjan",
+        "Designation": "",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9430284638",
+        "": ""
+    },
+    {
+        "Sr. No.": "40",
+        "Journalist": "Alok Ranjan",
+        "Designation": "",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9334326777",
+        "": ""
+    },
+    {
+        "Sr. No.": "24",
+        "Journalist": "Saurav Sinha",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "9431085007",
+        "": ""
+    },
+    {
+        "Sr. No.": "25",
+        "Journalist": "Arun Chaurasia",
+        "Designation": "",
+        "Publication": "News18",
+        "Contact Number": "9431264234",
+        "": ""
+    },
+    {
+        "Sr. No.": "35",
+        "Journalist": "Anil Ojha",
+        "Designation": "",
+        "Publication": "Hindustan Times",
+        "Contact Number": "9431724201",
+        "": ""
+    },
+    {
+        "Sr. No.": "38",
+        "Journalist": "Rakesh Ranjan",
+        "Designation": "",
+        "Publication": "India Power",
+        "Contact Number": "8407002006",
+        "": ""
+    },
+    {
+        "Sr. No.": "39",
+        "Journalist": "Shivshankar Prasad",
+        "Designation": "",
+        "Publication": "Jansatta",
+        "Contact Number": "9430296945",
+        "": ""
+    },
+    {
+        "Sr. No.": "37",
+        "Journalist": "Rajiv Kumar",
+        "Designation": "",
+        "Publication": "NA",
+        "Contact Number": "9431256014",
+        "": ""
+    },
+    {
+        "Sr. No.": "29",
+        "Journalist": "Sami Ahmad",
+        "Designation": "",
+        "Publication": "Hindustan",
+        "Contact Number": "9431013600",
+        "": ""
+    },
+    {
+        "Sr. No.": "30",
+        "Journalist": "Arjun",
+        "Designation": "",
+        "Publication": "News 18",
+        "Contact Number": "9431602144",
+        "": ""
+    },
+    {
+        "Sr. No.": "2",
+        "Journalist": "Arun Kumar",
+        "Designation": "Senior Reporter",
+        "Publication": "Etv",
+        "Contact Number": "9431425735",
+        "": ""
+    }
+]
