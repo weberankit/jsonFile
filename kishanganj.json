@@ -1,0 +1,746 @@
+[
+    {
+        "Sl. No.": "1",
+        "Journalist": "Rakesh Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "Hindustan",
+        "Contact Number": "9931448406",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "2",
+        "Journalist": "Shaileh Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9334180008",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "3",
+        "Journalist": "Niraj Jha",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9334701012",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "4",
+        "Journalist": "Avdesh Kumar Yadav",
+        "Designation": "Bureau Chief",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431658647",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "5",
+        "Journalist": "Noushad Allam",
+        "Designation": "Bureau Chief",
+        "Publication": "Alami Samay National",
+        "Contact Number": "9430947294",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "6",
+        "Journalist": "Shanbu Kumar Ravidas",
+        "Designation": "Bureau Chief",
+        "Publication": "Janpath Samachar",
+        "Contact Number": "9431658351",
+        "Status": "Ative"
+    },
+    {
+        "Sl. No.": "7",
+        "Journalist": "Sukhsagar Nath Sinha",
+        "Designation": "Bureau Chief",
+        "Publication": "Rastriya Sahara",
+        "Contact Number": "9431267887",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "8",
+        "Journalist": "Subodh Kumar Saha",
+        "Designation": "Bureau Chief",
+        "Publication": "Aaj",
+        "Contact Number": "9934711259",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "9",
+        "Journalist": "Ali reja Sidiki",
+        "Designation": "Bureau Chief",
+        "Publication": "Qaumi Tanzeem",
+        "Contact Number": "9431658393; 8392319266",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "10",
+        "Journalist": "Gourav Kumar",
+        "Designation": "   Reporter",
+        "Publication": "Aaj Tak",
+        "Contact Number": "9430682796",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "11",
+        "Journalist": "Ashish Singh",
+        "Designation": "Reporter",
+        "Publication": "News 18",
+        "Contact Number": "9431267343",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "12",
+        "Journalist": "Subhjit Shekar",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagaran",
+        "Contact Number": "9988626011",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "13",
+        "Journalist": "Rajeev Kumar Sinha",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagaran",
+        "Contact Number": "9470611946",
+        "Status": "active"
+    },
+    {
+        "Sl. No.": "14",
+        "Journalist": "Sarfaraz Alam",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9334811650",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "15",
+        "Journalist": "Sagar Chandra",
+        "Designation": "Reporter",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431291645",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "16",
+        "Journalist": "Sanjay Misr",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagaran",
+        "Contact Number": "9431758582",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "17",
+        "Journalist": "Pankaj Bharathi",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagaran",
+        "Contact Number": "9431095340",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "18",
+        "Journalist": "Birbal Mahatho",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagaran",
+        "Contact Number": "9430855156",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "19",
+        "Journalist": "Sir Mitilesh Jha",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9431445468",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "20",
+        "Journalist": "Mitilesh Kumar Jha",
+        "Designation": "Samvadata",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9430285394",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "21",
+        "Journalist": "Neeraj Jha",
+        "Designation": "District Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "9431478324",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "22",
+        "Journalist": "Rajiv Ranjan",
+        "Designation": "Reporter",
+        "Publication": "Hindustan",
+        "Contact Number": "9431288612 9472269011",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "23",
+        "Journalist": "Vidyanand Mehta",
+        "Designation": "Samvadata",
+        "Publication": "Hindustan",
+        "Contact Number": "9470629798",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "24",
+        "Journalist": "Avdesh jha",
+        "Designation": "Reporter",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9430681780",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "25",
+        "Journalist": "Narendra Gupta",
+        "Designation": "Samvadata",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9472500091",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "26",
+        "Journalist": "Vijay Kumar Saha",
+        "Designation": "Samvadata",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9672850728",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "27",
+        "Journalist": "Lalchand Sharma",
+        "Designation": "Samvadata",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9430873686",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "28",
+        "Journalist": "Bachraj Nakath",
+        "Designation": "Samvadata",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9471816680",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "29",
+        "Journalist": "Nk Jha",
+        "Designation": "Samvadata",
+        "Publication": "Rashtriya Sahara ",
+        "Contact Number": "9471685868",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "30",
+        "Journalist": "Munvarul Haq",
+        "Designation": "Correspondent",
+        "Publication": "Rashtriya Sahara ",
+        "Contact Number": "9546560670",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "31",
+        "Journalist": "Taukeer Alam",
+        "Designation": "Correspondent",
+        "Publication": "Rastriya Sahara",
+        "Contact Number": "9570916987",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "32",
+        "Journalist": "Pandav Jha",
+        "Designation": "Correspondent",
+        "Publication": "Rastriya Sahara",
+        "Contact Number": "9430554062",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "33",
+        "Journalist": "Sumithraj Yadav",
+        "Designation": "Correspondent",
+        "Publication": "Rastriya Sahara",
+        "Contact Number": "9472201664",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "34",
+        "Journalist": "Santosh Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Rastriya Sahara",
+        "Contact Number": "9473184900",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "35",
+        "Journalist": "Shashikanth Jha",
+        "Designation": "Correspondent",
+        "Publication": "Rastriya Sahara",
+        "Contact Number": "9430451333",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "36",
+        "Journalist": "Ajumudhin",
+        "Designation": "Office In-charge",
+        "Publication": "Tasir Urdu",
+        "Contact Number": "947008133; 9304486223",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "37",
+        "Journalist": "Rajesh Duba",
+        "Designation": "Reporter",
+        "Publication": "Kashish News",
+        "Contact Number": "9431267283 9430058100",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "38",
+        "Journalist": "Ranjan Pandeya",
+        "Designation": "Correspondent",
+        "Publication": "sammarg",
+        "Contact Number": "9431885309",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "39",
+        "Journalist": "Praveen Govind",
+        "Designation": "State Editor",
+        "Publication": "Arya Vart",
+        "Contact Number": "9431413135",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "40",
+        "Journalist": "Saidhur Rahaman",
+        "Designation": "Samvadadth",
+        "Publication": "Koumi Tanzeem Urdu",
+        "Contact Number": "9430581985",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "41",
+        "Journalist": "Shams Ahammod",
+        "Designation": "Correspondent",
+        "Publication": "Faruki Tanjeem",
+        "Contact Number": "9430587531",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "42",
+        "Journalist": "Abhu Farhan",
+        "Designation": "Correspondent",
+        "Publication": "Faruki Tanjeem",
+        "Contact Number": "9006188555",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "43",
+        "Journalist": "Nitaish Kumar Singh",
+        "Designation": "Reporter",
+        "Publication": "Sahara",
+        "Contact Number": "9306110018",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "44",
+        "Journalist": "Faizan",
+        "Designation": "Correspondent",
+        "Publication": "Akbar E -Mashrik Urdu",
+        "Contact Number": "9471226347",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "45",
+        "Journalist": "Ajhar Rahamani",
+        "Designation": "Correspondent",
+        "Publication": "Seemanchal ki Awaz",
+        "Contact Number": "9973992786",
+        "Status": "Active"
+    },
+    {
+        "Sl. No.": "46",
+        "Journalist": "Omprakash Gupta",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagaran",
+        "Contact Number": "9973161614",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "47",
+        "Journalist": "Piyush Ranjan",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagaran",
+        "Contact Number": "9431466591",
+        "Status": "na"
+    },
+    {
+        "Sl. No.": "48",
+        "Journalist": "Sachidanand Sinha",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagaran",
+        "Contact Number": "9471835771",
+        "Status": "na"
+    },
+    {
+        "Sl. No.": "49",
+        "Journalist": "Umesh Nandan Sinha",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431095368",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "50",
+        "Journalist": "Pradeep Kumar Sharma",
+        "Designation": "Samvadata",
+        "Publication": "Rastriya Sahara",
+        "Contact Number": "9546673614",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "51",
+        "Journalist": "Athikur Rahaman",
+        "Designation": "Correspondent",
+        "Publication": "Dhoni Jagaran",
+        "Contact Number": "9430598316",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "52",
+        "Journalist": "Munna Mushathak",
+        "Designation": "Correspondent",
+        "Publication": "Dhoni Jagaran",
+        "Contact Number": "9470868865",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "53",
+        "Journalist": "Munal Goswami",
+        "Designation": "Correspondent",
+        "Publication": "Dhoni Jagaran",
+        "Contact Number": "9570682798",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "24",
+        "Journalist": "Anil",
+        "Designation": "Correspondent",
+        "Publication": "Dhoni Jagaran",
+        "Contact Number": "9430561642",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "25",
+        "Journalist": "Chandra Bhusahan Simha",
+        "Designation": "Correspondent",
+        "Publication": "Dhoni Jagaran",
+        "Contact Number": "8757273175",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "26",
+        "Journalist": "Birendra Pandehe",
+        "Designation": "Correspondent",
+        "Publication": "Dhoni Jagaran",
+        "Contact Number": "9431645777",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "27",
+        "Journalist": "Akash Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Dhonik Bhaskar",
+        "Contact Number": "9430090299",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "28",
+        "Journalist": "Karan Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Dhonik Hindhi Sonabadra Samvadadth",
+        "Contact Number": "9431885081",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "30",
+        "Journalist": "Erfan",
+        "Designation": "Correspondent",
+        "Publication": "Dhonik Hindhi Sonabadra Samvadadth",
+        "Contact Number": "9471836348",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "23",
+        "Journalist": "Bijay Guptha",
+        "Designation": "Correspondent",
+        "Publication": "Dhoni Jagaran",
+        "Contact Number": "9430872330",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "31",
+        "Journalist": "Danshyam Simha",
+        "Designation": "Correspondent",
+        "Publication": "Dhonik Hindhi Sonabadra Samvadadth",
+        "Contact Number": "9471835373",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "36",
+        "Journalist": "Ranjeet Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "8969904793",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "49",
+        "Journalist": "Anas Rahamani",
+        "Designation": "Jilla Samvadadth",
+        "Publication": "Inklab Urdhu",
+        "Contact Number": "9546786955",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "38",
+        "Journalist": "Jaikumar Sinha",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9471408408",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "39",
+        "Journalist": "Nagendra Sinha",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "9709980051",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "42",
+        "Journalist": "Lalith Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "9430683157",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "46",
+        "Journalist": "Manoj Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "9934767271",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "47",
+        "Journalist": "Ranjeet Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "8969904793",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "54",
+        "Journalist": "Shok Najmul Huson",
+        "Designation": "Samvadadth",
+        "Publication": "Koumi Thami Urdhu",
+        "Contact Number": "9955509729",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "55",
+        "Journalist": "Guralam Masthf",
+        "Designation": "Samvadadth",
+        "Publication": "Koumi Thami Urdhu",
+        "Contact Number": "8809106407",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "56",
+        "Journalist": "Shamsahd Alam",
+        "Designation": "Samvadadth",
+        "Publication": "Koumi Thami Urdhu",
+        "Contact Number": "8294640206",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "57",
+        "Journalist": "Divakar Viswas ( Koushal)",
+        "Designation": "Reporter",
+        "Publication": "News India",
+        "Contact Number": "9431267582",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "58",
+        "Journalist": "Ratneshwar Jha",
+        "Designation": "Karyalay Prabari -Saha -Samvadadth",
+        "Publication": "P T Hai Akashvani",
+        "Contact Number": "9431267779",
+        "Status": "NA Active"
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "79",
+        "Journalist": "Virandra Thivari",
+        "Designation": "Reporter",
+        "Publication": "Sadhan Alpas",
+        "Contact Number": "9431077781",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "80",
+        "Journalist": "Amarandra Da",
+        "Designation": "Reporter",
+        "Publication": "Sadhan News",
+        "Contact Number": "9199789929 9122772039",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "81",
+        "Journalist": "Shaik Abdul Vahid",
+        "Designation": "Correspondent",
+        "Publication": "Social Movment Hindi Dainik",
+        "Contact Number": "7635727376",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "82",
+        "Journalist": "Arvind Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "Sonabadra News",
+        "Contact Number": "9836639999",
+        "Status": "NA"
+    },
+    {
+        "Sl. No.": "",
+        "Journalist": "",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "53",
+        "Journalist": "Mahmmod Asapi",
+        "Designation": "Samvadadth",
+        "Publication": "Koumi Tanzeem Urdu",
+        "Contact Number": "9470866994 9939073839",
+        "Status": "NA"
+    }
+]
