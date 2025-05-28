@@ -1,0 +1,212 @@
+[
+    {
+        "Journalist": "1",
+        "Publication": "Susheel Kumar",
+        "Designation": "ABP News",
+        "Contact Number": "Reporter"
+    },
+    {
+        "Journalist": "2",
+        "Publication": "Keshav Anand",
+        "Designation": "Aaj Tak",
+        "Contact Number": "Reporter"
+    },
+    {
+        "Journalist": "3",
+        "Publication": "Tripurari Sharan",
+        "Designation": "Zee Bihar",
+        "Contact Number": "Reporter"
+    },
+    {
+        "Journalist": "4",
+        "Publication": "Rakesh Ramjan",
+        "Designation": "News 18",
+        "Contact Number": "Reporter"
+    },
+    {
+        "Journalist": "5",
+        "Publication": "Amitabh Kumar",
+        "Designation": "Prabhat Khabar",
+        "Contact Number": "Bureau Chief"
+    },
+    {
+        "Journalist": "6",
+        "Publication": "Ravi Bhushan Sinha",
+        "Designation": "Dainik Jagran",
+        "Contact Number": "Bureau Chief"
+    },
+    {
+        "Journalist": "7",
+        "Publication": "Subodh Kumar",
+        "Designation": "Dainik Bhaskar",
+        "Contact Number": "Bureau Chief"
+    },
+    {
+        "Journalist": "8",
+        "Publication": "",
+        "Designation": "Hindustan ",
+        "Contact Number": "Bureau Chief"
+    },
+    {
+        "Journalist": "9",
+        "Publication": "Narendra Prasad",
+        "Designation": "Rashtriya Sahara",
+        "Contact Number": "Bureau Chief"
+    },
+    {
+        "Journalist": "10",
+        "Publication": "Gyan Ranjan",
+        "Designation": "Hindustan ",
+        "Contact Number": "Reporter"
+    },
+    {
+        "Journalist": "11",
+        "Publication": "Raushan Kumar",
+        "Designation": "Prabhat Khabar",
+        "Contact Number": "Reporter"
+    },
+    {
+        "Journalist": "12",
+        "Publication": "Amarnath Sehgal",
+        "Designation": "Kashish News",
+        "Contact Number": "Reporter"
+    },
+    {
+        "Journalist": "13",
+        "Publication": "Navneet Kumar",
+        "Designation": "Hindustan ",
+        "Contact Number": "Reporter"
+    },
+    {
+        "Journalist": "14",
+        "Publication": "Rajesh Kumar",
+        "Designation": "hindustan ",
+        "Contact Number": "district reporter"
+    },
+    {
+        "Journalist": "16",
+        "Publication": "Kumar Ashutosh",
+        "Designation": "Dainik Bhaskar",
+        "Contact Number": "District reporter"
+    },
+    {
+        "Journalist": "17",
+        "Publication": "Amit",
+        "Designation": "Dainik Bhaskar",
+        "Contact Number": "photographer"
+    },
+    {
+        "Journalist": "18",
+        "Publication": "Krishna Kumar",
+        "Designation": "Sadhvana TV",
+        "Contact Number": "local reporter"
+    },
+    {
+        "Journalist": "19",
+        "Publication": "Shamim Akhtar",
+        "Designation": "Dainik Bhaskar",
+        "Contact Number": "-"
+    },
+    {
+        "Journalist": "20",
+        "Publication": "Vijay Narayan Mitra",
+        "Designation": "prabhat khabar",
+        "Contact Number": "Reporter"
+    },
+    {
+        "Journalist": "21",
+        "Publication": "Sarvadheer Mitra",
+        "Designation": "Sahara TV",
+        "Contact Number": "district reporter"
+    },
+    {
+        "Journalist": "22",
+        "Publication": "Jaya Shankar Sinha",
+        "Designation": "Dainik Jagran",
+        "Contact Number": "Reporter"
+    },
+    {
+        "Journalist": "23",
+        "Publication": "Adityanand Mitra",
+        "Designation": "Dastak Duniya",
+        "Contact Number": "Reporter"
+    },
+    {
+        "Journalist": "24",
+        "Publication": "Balmiki Kumar",
+        "Designation": "Janadesh Bihar",
+        "Contact Number": "left"
+    },
+    {
+        "Journalist": "25",
+        "Publication": "Amit Jha",
+        "Designation": "DD News",
+        "Contact Number": "District reporter"
+    },
+    {
+        "Journalist": "26",
+        "Publication": "Talib Hussain",
+        "Designation": "Quami Tanzeem",
+        "Contact Number": ""
+    },
+    {
+        "Journalist": "27",
+        "Publication": "Deepak Kumar",
+        "Designation": "ETV News",
+        "Contact Number": ""
+    },
+    {
+        "Journalist": "28",
+        "Publication": "Shyam Kishore Sinha",
+        "Designation": "PTI",
+        "Contact Number": "district reporter"
+    },
+    {
+        "Journalist": "29",
+        "Publication": "Armaan Ali",
+        "Designation": "Farooqui Tanzeem",
+        "Contact Number": ""
+    },
+    {
+        "Journalist": "30",
+        "Publication": "Om Bharati",
+        "Designation": "PRabhat khabar",
+        "Contact Number": "jila parishad sadasya"
+    },
+    {
+        "Journalist": "31",
+        "Publication": "Gyan Ranjan",
+        "Designation": "daink hindustan",
+        "Contact Number": "bureau chief"
+    },
+    {
+        "Journalist": "32",
+        "Publication": "Amitabh Kumar",
+        "Designation": "Prabhat khabar",
+        "Contact Number": "bureau chief"
+    },
+    {
+        "Journalist": "33",
+        "Publication": "Shakuntala Sinha",
+        "Designation": "Kashish News",
+        "Contact Number": "-"
+    },
+    {
+        "Journalist": "34",
+        "Publication": "Amit Kumar",
+        "Designation": "PUBLIC APP",
+        "Contact Number": "reporter"
+    },
+    {
+        "Journalist": "35",
+        "Publication": "Dharmendra Kumar",
+        "Designation": "ETV News",
+        "Contact Number": "Bureau chief"
+    },
+    {
+        "Journalist": "36",
+        "Publication": "Hemendra Kumar",
+        "Designation": "aaj paper",
+        "Contact Number": "bureau chief"
+    }
+]
