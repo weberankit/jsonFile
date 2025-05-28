@@ -1,0 +1,314 @@
+[
+    {
+        "S.No.": "1",
+        "Journalist": "Rajesh Kumar",
+        "Designation": "Reporter",
+        "Publication": "Aj",
+        "Contact Number": "9430428478",
+        "": "Works in Munger now in Hindustan"
+    },
+    {
+        "S.No.": "2",
+        "Journalist": "Kumar Gopi",
+        "Designation": "Reporter",
+        "Publication": "Aj",
+        "Contact Number": "9835288557",
+        "": "Switched off"
+    },
+    {
+        "S.No.": "3",
+        "Journalist": "Varunendra Kumar",
+        "Designation": "Reporter",
+        "Publication": "Aaj Tak",
+        "Contact Number": "9431251777",
+        "": "Dainik Jagaran"
+    },
+    {
+        "S.No.": "4",
+        "Journalist": "Mithilesh Kumar",
+        "Designation": "Bureau In Charge",
+        "Publication": "Aaj Tak",
+        "Contact Number": "9934021022; 8917214030",
+        "": "Kewal Sach magazine, "
+    },
+    {
+        "S.No.": "5",
+        "Journalist": "Amrit Babu",
+        "Designation": "Reporter",
+        "Publication": "Aaj Tak",
+        "Contact Number": "8797379617",
+        "": "Incoming not available"
+    },
+    {
+        "S.No.": "6",
+        "Journalist": "Raj Kumar",
+        "Designation": "Reporter",
+        "Publication": "Akashavani",
+        "Contact Number": "9304257235",
+        "": "Incoming not available"
+    },
+    {
+        "S.No.": "7",
+        "Journalist": "Vishal Kumar",
+        "Designation": "Reporter",
+        "Publication": "Apni Ranchi",
+        "Contact Number": "9334121440",
+        "": "Prabhat Khabar, 2nd Bureau In-charge"
+    },
+    {
+        "S.No.": "9",
+        "Journalist": "Arvind Kumar Ravi",
+        "Designation": "District Reporter",
+        "Publication": "Aradhana News",
+        "Contact Number": "9973120621",
+        "": "Switched off"
+    },
+    {
+        "S.No.": "10",
+        "Journalist": "Sudhir Prasad Singh",
+        "Designation": "Chief Bureau",
+        "Publication": "Aradhana News",
+        "Contact Number": "9334284501",
+        "": "Aj Bureau Chief"
+    },
+    {
+        "S.No.": "11",
+        "Journalist": "Sanjay Kumar Suman urf Saket Bihari",
+        "Designation": "Chief Bureau",
+        "Publication": "Aradhana News",
+        "Contact Number": "9334650029",
+        "": "Rashtriya Sahara Bureau Chief"
+    },
+    {
+        "S.No.": "12",
+        "Journalist": "Abhishek Gautam",
+        "Designation": "Reporter & Photographer",
+        "Publication": "Crime News",
+        "Contact Number": "7870358489",
+        "": "He no longer works in the media."
+    },
+    {
+        "S.No.": "13",
+        "Journalist": "Manoj Kumar",
+        "Designation": "Reporter",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9934003218",
+        "": "Prabhat Khabar, Sahara Samay"
+    },
+    {
+        "S.No.": "14",
+        "Journalist": "Anil Kumar Sharma",
+        "Designation": "Coresspondent",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9060202817",
+        "": "Out of network coverage area."
+    },
+    {
+        "S.No.": "15",
+        "Journalist": "Yashwant Kumar Sinha",
+        "Designation": "Reporter",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9471005158",
+        "": "Zee news"
+    },
+    {
+        "S.No.": "16",
+        "Journalist": "Ashok Kumar Pridarshini",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "94314147240",
+        "": "Dainik Bhaskar Bureau Chief"
+    },
+    {
+        "S.No.": "17",
+        "Journalist": "Vijay Bhan Sinha",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431261934",
+        "": "Dead"
+    },
+    {
+        "S.No.": "18",
+        "Journalist": "Ramji Prasad",
+        "Designation": "Stringer",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431208087",
+        "": "Old age, does not work anymore"
+    },
+    {
+        "S.No.": "19",
+        "Journalist": "Shailesh Kumar Sinha",
+        "Designation": "Reporter",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9430073810",
+        "": "India TV"
+    },
+    {
+        "S.No.": "20",
+        "Journalist": "Ram Ji Prasad",
+        "Designation": "District Correspondent",
+        "Publication": "Dd News, Bihar",
+        "Contact Number": "9.19E+11",
+        "": "Old age, does not work anymore (Same as above)"
+    },
+    {
+        "S.No.": "S.No.",
+        "Journalist": "Journalist",
+        "Designation": "Designation",
+        "Publication": "Publication",
+        "Contact Number": "Contact Number",
+        "": ""
+    },
+    {
+        "S.No.": "1",
+        "Journalist": "Rajesh Kumar",
+        "Designation": "Reporter",
+        "Publication": "Aj",
+        "Contact Number": "9430428478",
+        "": "Works in Munger now in Hindustan"
+    },
+    {
+        "S.No.": "2",
+        "Journalist": "Kumar Gopi",
+        "Designation": "Reporter",
+        "Publication": "Aj",
+        "Contact Number": "9835288557",
+        "": "Switched off"
+    },
+    {
+        "S.No.": "3",
+        "Journalist": "Varunendra Kumar",
+        "Designation": "Reporter",
+        "Publication": "Aaj Tak",
+        "Contact Number": "9431251777",
+        "": "Dainik Jagaran"
+    },
+    {
+        "S.No.": "4",
+        "Journalist": "Mithilesh Kumar",
+        "Designation": "Bureau In Charge",
+        "Publication": "Aaj Tak",
+        "Contact Number": "9934021022; 8917214030",
+        "": "Kewal Sach magazine, "
+    },
+    {
+        "S.No.": "5",
+        "Journalist": "Amrit Babu",
+        "Designation": "Reporter",
+        "Publication": "Aaj Tak",
+        "Contact Number": "8797379617",
+        "": "Incoming not available"
+    },
+    {
+        "S.No.": "6",
+        "Journalist": "Raj Kumar",
+        "Designation": "Reporter",
+        "Publication": "Akashavani",
+        "Contact Number": "9304257235",
+        "": "Incoming not available"
+    },
+    {
+        "S.No.": "7",
+        "Journalist": "Vishal Kumar",
+        "Designation": "Reporter",
+        "Publication": "Apni Ranchi",
+        "Contact Number": "9334121440",
+        "": "Prabhat Khabar, 2nd Bureau In-charge"
+    },
+    {
+        "S.No.": "9",
+        "Journalist": "Arvind Kumar Ravi",
+        "Designation": "District Reporter",
+        "Publication": "Aradhana News",
+        "Contact Number": "9973120621",
+        "": "Switched off"
+    },
+    {
+        "S.No.": "10",
+        "Journalist": "Sudhir Prasad Singh",
+        "Designation": "Chief Bureau",
+        "Publication": "Aradhana News",
+        "Contact Number": "9334284501",
+        "": "Aj Bureau Chief"
+    },
+    {
+        "S.No.": "11",
+        "Journalist": "Sanjay Kumar Suman urf Saket Bihari",
+        "Designation": "Chief Bureau",
+        "Publication": "Aradhana News",
+        "Contact Number": "9334650029",
+        "": "Rashtriya Sahara Bureau Chief"
+    },
+    {
+        "S.No.": "12",
+        "Journalist": "Abhishek Gautam",
+        "Designation": "Reporter & Photographer",
+        "Publication": "Crime News",
+        "Contact Number": "7870358489",
+        "": "He no longer works in the media."
+    },
+    {
+        "S.No.": "13",
+        "Journalist": "Manoj Kumar",
+        "Designation": "Reporter",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9934003218",
+        "": "Prabhat Khabar, Sahara Samay"
+    },
+    {
+        "S.No.": "14",
+        "Journalist": "Anil Kumar Sharma",
+        "Designation": "Coresspondent",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9060202817",
+        "": "Out of network coverage area."
+    },
+    {
+        "S.No.": "15",
+        "Journalist": "Yashwant Kumar Sinha",
+        "Designation": "Reporter",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9471005158",
+        "": "Zee news"
+    },
+    {
+        "S.No.": "16",
+        "Journalist": "Ashok Kumar Pridarshini",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "94314147240",
+        "": "Dainik Bhaskar Bureau Chief"
+    },
+    {
+        "S.No.": "17",
+        "Journalist": "Vijay Bhan Sinha",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431261934",
+        "": "Dead"
+    },
+    {
+        "S.No.": "18",
+        "Journalist": "Ramji Prasad",
+        "Designation": "Stringer",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431208087",
+        "": "Old age, does not work anymore"
+    },
+    {
+        "S.No.": "19",
+        "Journalist": "Shailesh Kumar Sinha",
+        "Designation": "Reporter",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9430073810",
+        "": "India TV"
+    },
+    {
+        "S.No.": "20",
+        "Journalist": "Ram Ji Prasad",
+        "Designation": "District Correspondent",
+        "Publication": "Dd News, Bihar",
+        "Contact Number": "9.19E+11",
+        "": "Old age, does not work anymore (Same as above)"
+    }
+]
