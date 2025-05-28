@@ -1,0 +1,178 @@
+[
+    {
+        "Sl. No.": "1",
+        "Journalist": "Umesh Kumar",
+        "Designation": "Coresspondent",
+        "Publication": "Aaj",
+        "Phone": "9709705739",
+        "Status": "Did not pick up"
+    },
+    {
+        "Sl. No.": "2",
+        "Journalist": "Kumar Subitha",
+        "Designation": "Coresspondent",
+        "Publication": "Aajtak News",
+        "Phone": "9122276641",
+        "Status": "Incoming not available"
+    },
+    {
+        "Sl. No.": "3",
+        "Journalist": "Niranjan Kumar",
+        "Designation": "Coresspondent",
+        "Publication": "Akash vani",
+        "Phone": "9431418745",
+        "Status": "Did not want to share the info"
+    },
+    {
+        "Sl. No.": "4",
+        "Journalist": "Shailendra Kumar",
+        "Designation": "Coresspondent",
+        "Publication": "Arthan News",
+        "Phone": "9931425653/9708561561",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "5",
+        "Journalist": "Chandan kumar",
+        "Designation": "Coresspondent",
+        "Publication": "Dainik Bhaskar",
+        "Phone": "9431090679; 7488879527",
+        "Status": "Wrong no."
+    },
+    {
+        "Sl. No.": "6",
+        "Journalist": "Sanok Kumar",
+        "Designation": "Coresspondent",
+        "Publication": "Dainik Jagran",
+        "Phone": "9431418757",
+        "Status": "Did not pick up"
+    },
+    {
+        "Sl. No.": "7",
+        "Journalist": "Arvind Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Dainik Jagran",
+        "Phone": "9431090958",
+        "Status": "Did not pick up"
+    },
+    {
+        "Sl. No.": "8",
+        "Journalist": "Ajit Kumar",
+        "Designation": "Correspondent",
+        "Publication": "News 18",
+        "Phone": "9431251368",
+        "Status": "Confirm"
+    },
+    {
+        "Sl. No.": "9",
+        "Journalist": "Manoj Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Phone": "9431469311/9661065428",
+        "Status": "Confirm (Bureau Chief)"
+    },
+    {
+        "Sl. No.": "10",
+        "Journalist": "Sanjay Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Phone": "9431292996; 9006610400",
+        "Status": "Confirm"
+    },
+    {
+        "Sl. No.": "11",
+        "Journalist": "Rohit Kumar Singh",
+        "Designation": "Coresspondent",
+        "Publication": "India News",
+        "Phone": "9570273644; 9308214254",
+        "Status": "Confirm (Zee News)"
+    },
+    {
+        "Sl. No.": "12",
+        "Journalist": "Rajan kumar",
+        "Designation": "Coresspondent",
+        "Publication": "News Time",
+        "Phone": "9431090293",
+        "Status": "Busy"
+    },
+    {
+        "Sl. No.": "13",
+        "Journalist": "Dharmendra Kumar",
+        "Designation": "Correspondent",
+        "Publication": "News-24",
+        "Phone": "9473455800",
+        "Status": "Confirm"
+    },
+    {
+        "Sl. No.": "14",
+        "Journalist": "Lalan kumar",
+        "Designation": "Coresspondent",
+        "Publication": "Pindar",
+        "Phone": "9470707012",
+        "Status": "Incoming not available"
+    },
+    {
+        "Sl. No.": "15",
+        "Journalist": "Ranjit Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Prabhat Khabar",
+        "Phone": "9472616122/9204528529",
+        "Status": "Incoming not available / Number invalid"
+    },
+    {
+        "Sl. No.": "16",
+        "Journalist": "Sharvil Haider",
+        "Designation": "Correspondent",
+        "Publication": "Qaumi Tanzeem",
+        "Phone": "9771720302/8877715971",
+        "Status": "Was not ready to talk"
+    },
+    {
+        "Sl. No.": "17",
+        "Journalist": "Naveen Kumar",
+        "Designation": "Coresspondent",
+        "Publication": "Rashtriya Sahara",
+        "Phone": "9431090957; 9771720087; 9570935287",
+        "Status": "Incoming not available / Wrong no. / Confirm (He is the Bureau Chief)"
+    },
+    {
+        "Sl. No.": "18",
+        "Journalist": "Suryandra Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Rashtriya Sahara",
+        "Phone": "9430995441",
+        "Status": "Wrong no."
+    },
+    {
+        "Sl. No.": "19",
+        "Journalist": "Subendra Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Rashtriya Sahara",
+        "Phone": "8986111121",
+        "Status": "Confirm"
+    },
+    {
+        "Sl. No.": "20",
+        "Journalist": "Arun Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Sadhna News",
+        "Phone": "7870285651/9234449169",
+        "Status": "Dainik Jagran Bureau Chief (Sadhna News is closed)"
+    },
+    {
+        "Sl. No.": "21",
+        "Journalist": "NA",
+        "Designation": "Correspondent",
+        "Publication": "Sadhna News",
+        "Phone": "9308758295",
+        "Status": ""
+    },
+    {
+        "Sl. No.": "22",
+        "Journalist": "Srinivas",
+        "Designation": "Coresspondent",
+        "Publication": "Sahara Samay",
+        "Phone": "9431446327",
+        "Status": "Switched off"
+    }
+]
