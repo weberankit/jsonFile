@@ -1,0 +1,426 @@
+[
+    {
+        "S.No.": "1",
+        "Journalist": "Manohar Jee",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9431671473",
+        "": ""
+    },
+    {
+        "S.No.": "2",
+        "Journalist": "Rajeev Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9473050084",
+        "": ""
+    },
+    {
+        "S.No.": "3",
+        "Journalist": "Arun Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431284572",
+        "": ""
+    },
+    {
+        "S.No.": "4",
+        "Journalist": "Rajesh Kumar Sharma",
+        "Designation": "Bureau Chief",
+        "Publication": "Sahara Samay",
+        "Contact Number": "9431230183",
+        "": ""
+    },
+    {
+        "S.No.": "5",
+        "Journalist": "Abhay Sinha",
+        "Designation": "Bureau Chief",
+        "Publication": "Etv",
+        "Contact Number": "8409227713",
+        "": ""
+    },
+    {
+        "S.No.": "22",
+        "Journalist": "Sharad Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "8877313435",
+        "": ""
+    },
+    {
+        "S.No.": "6",
+        "Journalist": "Sharad Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "Rashtriya sahara",
+        "Contact Number": "8877313435",
+        "": ""
+    },
+    {
+        "S.No.": "7",
+        "Journalist": "Ravi Prakash",
+        "Designation": "Bureau Chief",
+        "Publication": "Kashish News",
+        "Contact Number": "9431058428; 9304771729; 9852125121",
+        "": ""
+    },
+    {
+        "S.No.": "8",
+        "Journalist": "Sanjay Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "Koshi Alok",
+        "Contact Number": "9955230083",
+        "": ""
+    },
+    {
+        "S.No.": "9",
+        "Journalist": "Santosh Nayak",
+        "Designation": "Correspondent",
+        "Publication": "AAj Tak",
+        "Contact Number": "9334950300",
+        "": ""
+    },
+    {
+        "S.No.": "10",
+        "Journalist": "Prafulla Jha",
+        "Designation": "Pratyek News",
+        "Publication": "AAJ Tak/ Prateek",
+        "Contact Number": "8863841000",
+        "": ""
+    },
+    {
+        "S.No.": "27",
+        "Journalist": "Pankaj Bharti",
+        "Designation": "Reporter",
+        "Publication": "Ndtv",
+        "Contact Number": "8521100784; 9162252552",
+        "": ""
+    },
+    {
+        "S.No.": "11",
+        "Journalist": "Pankaj Nayak",
+        "Designation": "Correspondent",
+        "Publication": "ABP",
+        "Contact Number": "9934753636",
+        "": ""
+    },
+    {
+        "S.No.": "12",
+        "Journalist": "Pankaj Nayak",
+        "Designation": "ABP News",
+        "Publication": "ABP News",
+        "Contact Number": "9934753636",
+        "": ""
+    },
+    {
+        "S.No.": "13",
+        "Journalist": "Manoj Sharma",
+        "Designation": "Correspondent",
+        "Publication": "Zee News",
+        "Contact Number": "9931639391",
+        "": ""
+    },
+    {
+        "S.No.": "14",
+        "Journalist": "Manoj Sharma",
+        "Designation": "Reporter",
+        "Publication": "Zee News",
+        "Contact Number": "9931639391",
+        "": ""
+    },
+    {
+        "S.No.": "31",
+        "Journalist": "Abhay Kumar Sinha",
+        "Designation": "Reporter",
+        "Publication": "ETV Bharat",
+        "Contact Number": "8409227713",
+        "": ""
+    },
+    {
+        "S.No.": "38",
+        "Journalist": "Karan",
+        "Designation": "Reporter",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9155423396",
+        "": ""
+    },
+    {
+        "S.No.": "16",
+        "Journalist": "Akhilesh Jee",
+        "Designation": "Reporter",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431095946",
+        "": ""
+    },
+    {
+        "S.No.": "29",
+        "Journalist": "Pankaj Nayak",
+        "Designation": "Correspondent",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9934753636",
+        "": ""
+    },
+    {
+        "S.No.": "32",
+        "Journalist": "Raja Jha",
+        "Designation": "Reporter",
+        "Publication": "Sahara Samay",
+        "Contact Number": "9570827759",
+        "": ""
+    },
+    {
+        "S.No.": "17",
+        "Journalist": "Prafulla Jha",
+        "Designation": "Correspondent",
+        "Publication": "Partyaik News",
+        "Contact Number": "8863841000",
+        "": ""
+    },
+    {
+        "S.No.": "18",
+        "Journalist": "Pooja Mishra",
+        "Designation": "Reporter",
+        "Publication": "News 18 ",
+        "Contact Number": "9934246248 9199922864",
+        "": ""
+    },
+    {
+        "S.No.": "19",
+        "Journalist": "Tausif Alam",
+        "Designation": "Reporter",
+        "Publication": "Inqalab",
+        "Contact Number": "8084216220",
+        "": ""
+    },
+    {
+        "S.No.": "42",
+        "Journalist": "Naresh Kumar Srivastava",
+        "Designation": "",
+        "Publication": "All India Radio",
+        "Contact Number": "9431097221",
+        "": ""
+    },
+    {
+        "S.No.": "20",
+        "Journalist": "Homi Chandan",
+        "Designation": "Correspondent",
+        "Publication": "Doordarshan/Ibn 7",
+        "Contact Number": "9955948955",
+        "": ""
+    },
+    {
+        "S.No.": "21",
+        "Journalist": "Rajendra Pathak",
+        "Designation": "",
+        "Publication": "Freelance Journalist",
+        "Contact Number": "9431602133",
+        "": ""
+    },
+    {
+        "S.No.": "23",
+        "Journalist": "Mohit Pandit",
+        "Designation": "Correspondent",
+        "Publication": "City Halchal",
+        "Contact Number": "8409433993",
+        "": ""
+    },
+    {
+        "S.No.": "24",
+        "Journalist": "Niyaz kashmi",
+        "Designation": "Correspondent",
+        "Publication": "Sahara Urdu",
+        "Contact Number": "9709495302",
+        "": ""
+    },
+    {
+        "S.No.": "25",
+        "Journalist": "Rajiv Kumar Chayakar",
+        "Designation": "",
+        "Publication": "Prabhat",
+        "Contact Number": "9934246248",
+        "": ""
+    },
+    {
+        "S.No.": "28",
+        "Journalist": "Niyaz Kashmi",
+        "Designation": "Correspondent",
+        "Publication": "Sahara Urdu",
+        "Contact Number": "9709495302",
+        "": ""
+    },
+    {
+        "S.No.": "33",
+        "Journalist": "Raees Alam",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "7766842423",
+        "": ""
+    },
+    {
+        "S.No.": "35",
+        "Journalist": "Kumar Praveen",
+        "Designation": "Reporter",
+        "Publication": "News 18",
+        "Contact Number": "9199694477",
+        "": ""
+    },
+    {
+        "S.No.": "37",
+        "Journalist": "Deepak Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Sonabhadra Times",
+        "Contact Number": "9472065919",
+        "": ""
+    },
+    {
+        "S.No.": "39",
+        "Journalist": "Anil",
+        "Designation": "Reporter",
+        "Publication": "World News",
+        "Contact Number": "9431284572",
+        "": ""
+    },
+    {
+        "S.No.": "34",
+        "Journalist": "Prashant Choudhary",
+        "Designation": "Reporter",
+        "Publication": "Sonabhadra Dainik",
+        "Contact Number": "9471826121",
+        "": ""
+    },
+    {
+        "S.No.": "41",
+        "Journalist": "Deepak Sharan Verma",
+        "Designation": "",
+        "Publication": "Sonbhadra News",
+        "Contact Number": "778208574",
+        "": ""
+    },
+    {
+        "S.No.": "30",
+        "Journalist": "Shashi Raman",
+        "Designation": "Bureau Chief",
+        "Publication": "Nayi Baat",
+        "Contact Number": "9471939566",
+        "": "Bhagalpur"
+    },
+    {
+        "S.No.": "30",
+        "Journalist": "Sunil Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "",
+        "": ""
+    },
+    {
+        "S.No.": "40",
+        "Journalist": "Dheeraj",
+        "Designation": "",
+        "Publication": "Zee News",
+        "Contact Number": "7759010221",
+        "": "patna"
+    },
+    {
+        "S.No.": "28",
+        "Journalist": "Pankaj Bharti",
+        "Designation": "Correspondent",
+        "Publication": "The sankh News",
+        "Contact Number": "8521100784; 9162252552",
+        "": ""
+    },
+    {
+        "S.No.": "35",
+        "Journalist": "Kamal Anand",
+        "Designation": "Bureau Chief",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431206450",
+        "": ""
+    },
+    {
+        "S.No.": "6",
+        "Journalist": "Sunil Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "",
+        "": ""
+    },
+    {
+        "S.No.": "22",
+        "Journalist": "Dilip Raj",
+        "Designation": "Reporter",
+        "Publication": "Kashish News",
+        "Contact Number": "9431445761",
+        "": ""
+    },
+    {
+        "S.No.": "52",
+        "Journalist": "Lalan Kumar",
+        "Designation": "Reporter",
+        "Publication": "Sonabhadra Dainik",
+        "Contact Number": "9709494489",
+        "": ""
+    },
+    {
+        "S.No.": "33",
+        "Journalist": "Rajendra Kumar Pathak",
+        "Designation": "Senior Reporter ",
+        "Publication": "New Bath Dinak",
+        "Contact Number": "9431602133",
+        "": ""
+    },
+    {
+        "S.No.": "25",
+        "Journalist": "Aditya Nath Jha",
+        "Designation": "Bureau Chief",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9473287166",
+        "": ""
+    },
+    {
+        "S.No.": "24",
+        "Journalist": "Ganga Prasad Chowdhury",
+        "Designation": "Bureau Chief",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431865757",
+        "": ""
+    },
+    {
+        "S.No.": "1",
+        "Journalist": "Shahanwaj",
+        "Designation": "Correspondent",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9123401581",
+        "": "Switch off"
+    },
+    {
+        "S.No.": "36",
+        "Journalist": "Manoj Mishra",
+        "Designation": "Reporter",
+        "Publication": "U.N.I.",
+        "Contact Number": "9572929586",
+        "": ""
+    },
+    {
+        "S.No.": "26",
+        "Journalist": "Naveen Nishant",
+        "Designation": "Bureau Chief",
+        "Publication": "Live hindustan",
+        "Contact Number": "9431243022",
+        "": "Saharsa"
+    },
+    {
+        "S.No.": "48",
+        "Journalist": "Nand Kishore Singh",
+        "Designation": "Reporter",
+        "Publication": "Sahara Samay",
+        "Contact Number": "9430259234",
+        "": ""
+    },
+    {
+        "S.No.": "46",
+        "Journalist": "Dilip Raj",
+        "Designation": "Correspondent",
+        "Publication": "FDN",
+        "Contact Number": "9431445761",
+        "": ""
+    }
+]
