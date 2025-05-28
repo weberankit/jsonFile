@@ -1,0 +1,434 @@
+[
+    {
+        "S.No.": "1",
+        "Journalist": "Amit Kumar",
+        "Designation": "",
+        "Publication": "Sahara Samaya",
+        "Contact Number": "9430227537",
+        "Status": "Active"
+    },
+    {
+        "S.No.": "2",
+        "Journalist": "Sunil Kumar",
+        "Designation": "Reporter",
+        "Publication": "Sahara Samaya",
+        "Contact Number": "9431430368",
+        "Status": "Active"
+    },
+    {
+        "S.No.": "3",
+        "Journalist": "Manoj Kumar Simha",
+        "Designation": "Reporter",
+        "Publication": "Aaj Tak",
+        "Contact Number": "9431058092",
+        "Status": "Active"
+    },
+    {
+        "S.No.": "4",
+        "Journalist": "Sudeep Kumar Jha",
+        "Designation": "Bureau Chief",
+        "Publication": "Aaj Tak",
+        "Contact Number": "9431024151",
+        "Status": "Active"
+    },
+    {
+        "S.No.": "5",
+        "Journalist": "Sathish Kumar",
+        "Designation": "",
+        "Publication": "Koumi Thajim",
+        "Contact Number": "9431082319",
+        "Status": ""
+    },
+    {
+        "S.No.": "6",
+        "Journalist": "Rajesh Dubey",
+        "Designation": "",
+        "Publication": "Rasthriya Sahara",
+        "Contact Number": "9430524782",
+        "Status": ""
+    },
+    {
+        "S.No.": "7",
+        "Journalist": "Dayanand Tiwari",
+        "Designation": "",
+        "Publication": "Nakshatra News",
+        "Contact Number": "9430963010",
+        "Status": ""
+    },
+    {
+        "S.No.": "8",
+        "Journalist": "Tipu Sultan",
+        "Designation": "",
+        "Publication": "Komi Tanjim",
+        "Contact Number": "995550777",
+        "Status": ""
+    },
+    {
+        "S.No.": "9",
+        "Journalist": "Jaya Naryana",
+        "Designation": "",
+        "Publication": "Aaj Thak",
+        "Contact Number": "9835418768",
+        "Status": ""
+    },
+    {
+        "S.No.": "10",
+        "Journalist": "Ambika Prasad",
+        "Designation": "",
+        "Publication": "Cnn-Ibn",
+        "Contact Number": "9431020855, 9431676446",
+        "Status": ""
+    },
+    {
+        "S.No.": "11",
+        "Journalist": "Rajan Simha",
+        "Designation": "",
+        "Publication": "India Tv",
+        "Contact Number": "9470001150",
+        "Status": ""
+    },
+    {
+        "S.No.": "12",
+        "Journalist": "Alok Chamria",
+        "Designation": "Reporter",
+        "Publication": "Uni",
+        "Contact Number": "7543030511, 9955591186",
+        "Status": ""
+    },
+    {
+        "S.No.": "13",
+        "Journalist": "Devendra Kumar Dube",
+        "Designation": "",
+        "Publication": "Sadhna News",
+        "Contact Number": "9771258111/8969690925",
+        "Status": ""
+    },
+    {
+        "S.No.": "14",
+        "Journalist": "Anurag Saran",
+        "Designation": "",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9430656239",
+        "Status": ""
+    },
+    {
+        "S.No.": "15",
+        "Journalist": "Sintu Kumar",
+        "Designation": "Reporter",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9431844175",
+        "Status": ""
+    },
+    {
+        "S.No.": "16",
+        "Journalist": "Tipu Sultan",
+        "Designation": "",
+        "Publication": "Qaumi Tanzeem",
+        "Contact Number": "9955550777",
+        "Status": ""
+    },
+    {
+        "S.No.": "17",
+        "Journalist": "Dharmendra Singh",
+        "Designation": "",
+        "Publication": "Hindustan",
+        "Contact Number": "9431430359/ 8863990414",
+        "Status": ""
+    },
+    {
+        "S.No.": "18",
+        "Journalist": "Ajit Kumar",
+        "Designation": "",
+        "Publication": "ETV",
+        "Contact Number": "9473160270",
+        "Status": ""
+    },
+    {
+        "S.No.": "19",
+        "Journalist": "Ranjan Kumar",
+        "Designation": "Reporter",
+        "Publication": "Sahara Samay",
+        "Contact Number": "7279933670",
+        "Status": ""
+    },
+    {
+        "S.No.": "20",
+        "Journalist": "Brajesh Kumar Pathak",
+        "Designation": "",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431430216",
+        "Status": ""
+    },
+    {
+        "S.No.": "21",
+        "Journalist": "Shivaji Sahay",
+        "Designation": "",
+        "Publication": "Aj",
+        "Contact Number": "8863007575",
+        "Status": ""
+    },
+    {
+        "S.No.": "22",
+        "Journalist": "Aslam Parvez",
+        "Designation": "",
+        "Publication": "Faroqui Tanjim",
+        "Contact Number": "9939017861",
+        "Status": ""
+    },
+    {
+        "S.No.": "23",
+        "Journalist": "Vinod Kumar Dubey",
+        "Designation": "",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9471496002",
+        "Status": ""
+    },
+    {
+        "S.No.": "24",
+        "Journalist": "Bajrangi Tiwari",
+        "Designation": "",
+        "Publication": "Media Darshan",
+        "Contact Number": "8809825398",
+        "Status": ""
+    },
+    {
+        "S.No.": "25",
+        "Journalist": "Vikas Kumar Ranjan",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "9534377211",
+        "Status": ""
+    },
+    {
+        "S.No.": "26",
+        "Journalist": "Pramod Kumar Srivastav",
+        "Designation": "",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9431676277",
+        "Status": ""
+    },
+    {
+        "S.No.": "27",
+        "Journalist": "Ajay Kumar",
+        "Designation": "",
+        "Publication": "NDTV",
+        "Contact Number": "9431044387",
+        "Status": ""
+    },
+    {
+        "S.No.": "28",
+        "Journalist": "Om Prakash Tiwari",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "9431058681",
+        "Status": ""
+    },
+    {
+        "S.No.": "29",
+        "Journalist": "Inaam Ahmed",
+        "Designation": "",
+        "Publication": "Inquilab",
+        "Contact Number": "9934936887",
+        "Status": ""
+    },
+    {
+        "S.No.": "30",
+        "Journalist": "Anil Kumar Dubey",
+        "Designation": "",
+        "Publication": "Hindustan",
+        "Contact Number": "9939256111",
+        "Status": ""
+    },
+    {
+        "S.No.": "31",
+        "Journalist": "Mannar Basheer",
+        "Designation": "",
+        "Publication": "Rashtriya Sahara Urdu",
+        "Contact Number": "9334672750",
+        "Status": ""
+    },
+    {
+        "S.No.": "32",
+        "Journalist": "Amarhit Kumar",
+        "Designation": "",
+        "Publication": "Zee News",
+        "Contact Number": "9122105125",
+        "Status": ""
+    },
+    {
+        "S.No.": "33",
+        "Journalist": "Shyamsundar Tiwari",
+        "Designation": "",
+        "Publication": "Akashwani",
+        "Contact Number": "9431677273",
+        "Status": ""
+    },
+    {
+        "S.No.": "34",
+        "Journalist": "Ranjan Kumar",
+        "Designation": "",
+        "Publication": "India TV",
+        "Contact Number": "9430254821",
+        "Status": ""
+    },
+    {
+        "S.No.": "35",
+        "Journalist": "Chandragupt Mehra",
+        "Designation": "Reporter",
+        "Publication": "PTI",
+        "Contact Number": "9431484521",
+        "Status": ""
+    },
+    {
+        "S.No.": "36",
+        "Journalist": "Ravikesh Upadhaya",
+        "Designation": "",
+        "Publication": "News 24",
+        "Contact Number": "9304055920/ 9162862611",
+        "Status": ""
+    },
+    {
+        "S.No.": "37",
+        "Journalist": "Papiya Mitra",
+        "Designation": "",
+        "Publication": "Jain TV",
+        "Contact Number": "9006199386",
+        "Status": ""
+    },
+    {
+        "S.No.": "38",
+        "Journalist": "Jitendra Mishra",
+        "Designation": "",
+        "Publication": "Disha Media",
+        "Contact Number": "9431485450",
+        "Status": ""
+    },
+    {
+        "S.No.": "39",
+        "Journalist": "Gaya Prasad",
+        "Designation": "",
+        "Publication": "Toofaan",
+        "Contact Number": "9931006240",
+        "Status": ""
+    },
+    {
+        "S.No.": "40",
+        "Journalist": "Jagan Narayan Pandey",
+        "Designation": "",
+        "Publication": "Aj",
+        "Contact Number": "9431483307",
+        "Status": ""
+    },
+    {
+        "S.No.": "41",
+        "Journalist": "Dhananjay Tiwari",
+        "Designation": "",
+        "Publication": "India News",
+        "Contact Number": "9934399326",
+        "Status": ""
+    },
+    {
+        "S.No.": "42",
+        "Journalist": "Durgesh Kishore Tiwari",
+        "Designation": "",
+        "Publication": "Aj",
+        "Contact Number": "9430586352",
+        "Status": ""
+    },
+    {
+        "S.No.": "43",
+        "Journalist": "Shailesh Pathak",
+        "Designation": "",
+        "Publication": "",
+        "Contact Number": "8292394044/ 8235081058",
+        "Status": ""
+    },
+    {
+        "S.No.": "44",
+        "Journalist": "Ramashankar Choubey",
+        "Designation": "",
+        "Publication": "Gaon Gaon Ki Khabar",
+        "Contact Number": "8083430533",
+        "Status": ""
+    },
+    {
+        "S.No.": "45",
+        "Journalist": "Bhupendra Narayan Singh",
+        "Designation": "",
+        "Publication": "DD News",
+        "Contact Number": "9431082340",
+        "Status": ""
+    },
+    {
+        "S.No.": "46",
+        "Journalist": "Mithilesh Kumar",
+        "Designation": "",
+        "Publication": "Jain TV",
+        "Contact Number": "7759053300",
+        "Status": ""
+    },
+    {
+        "S.No.": "47",
+        "Journalist": "Umesh Kumar",
+        "Designation": "",
+        "Publication": "APN",
+        "Contact Number": "7004151085",
+        "Status": ""
+    },
+    {
+        "S.No.": "48",
+        "Journalist": "Prashann Mishra",
+        "Designation": "",
+        "Publication": "Hindustan Times",
+        "Contact Number": "9431463938",
+        "Status": ""
+    },
+    {
+        "S.No.": "49",
+        "Journalist": "Sanjay Pandey",
+        "Designation": "",
+        "Publication": "Punjab Kesari",
+        "Contact Number": "7352544830",
+        "Status": ""
+    },
+    {
+        "S.No.": "50",
+        "Journalist": "Akhtar Imam Anjum",
+        "Designation": "",
+        "Publication": "Taseer Urdu",
+        "Contact Number": "9430437182",
+        "Status": ""
+    },
+    {
+        "S.No.": "51",
+        "Journalist": "Raja Abhduth",
+        "Designation": "",
+        "Publication": "Live City",
+        "Contact Number": "9608627888",
+        "Status": ""
+    },
+    {
+        "S.No.": "52",
+        "Journalist": "Sanjay Tiwari",
+        "Designation": "",
+        "Publication": "Nav Bihar Times",
+        "Contact Number": "9473260294",
+        "Status": ""
+    },
+    {
+        "S.No.": "53",
+        "Journalist": "Ramesh Kumar",
+        "Designation": "",
+        "Publication": "Media Darshan",
+        "Contact Number": "9546396136",
+        "Status": ""
+    },
+    {
+        "S.No.": "54",
+        "Journalist": "Mantosh Kumar Patel",
+        "Designation": "",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9631401572/ 7543865213",
+        "Status": ""
+    }
+]
