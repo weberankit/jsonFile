@@ -1,0 +1,543 @@
+[
+    {
+        "Journalist": "1",
+        "Designation": "Rambabu Suman",
+        "Publication": "Bureau Chief",
+        "Contact Number": "Hindustan"
+    },
+    {
+        "Journalist": "2",
+        "Designation": "Mukesh Kumar",
+        "Publication": "Bureau Chief",
+        "Contact Number": "Dainik Jagran"
+    },
+    {
+        "Journalist": "3",
+        "Designation": "Abhay Kumar ",
+        "Publication": "Bureau Chief",
+        "Contact Number": "Prabhat Khabar"
+    },
+    {
+        "Journalist": "4",
+        "Designation": "Shiv Chandra Jha",
+        "Publication": "Bureau Chief",
+        "Contact Number": "Aaj "
+    },
+    {
+        "Journalist": "5",
+        "Designation": "Lakshmi Kant Singh",
+        "Publication": "Bureau Chief",
+        "Contact Number": "Dainik Bhaskar"
+    },
+    {
+        "Journalist": "6",
+        "Designation": "Shanti Kumar Jain",
+        "Publication": "Correspondent",
+        "Contact Number": "The Times of India"
+    },
+    {
+        "Journalist": "7",
+        "Designation": "Jahangir Aalam",
+        "Publication": "Correspondent",
+        "Contact Number": "Aaj Tak"
+    },
+    {
+        "Journalist": "8",
+        "Designation": "Om Prakash Ray",
+        "Publication": "Correspondent",
+        "Contact Number": "Bihar Tak"
+    },
+    {
+        "Journalist": "9",
+        "Designation": "Shyam Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "C News"
+    },
+    {
+        "Journalist": "10",
+        "Designation": "Amrita Kumari",
+        "Publication": "Correspondent",
+        "Contact Number": "ABP"
+    },
+    {
+        "Journalist": "11",
+        "Designation": "Hareshwar Kumar Dada",
+        "Publication": "Correspondent",
+        "Contact Number": "NDTV"
+    },
+    {
+        "Journalist": "12",
+        "Designation": "Mukesh Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "ETV News/ News 18"
+    },
+    {
+        "Journalist": "13",
+        "Designation": "Shna Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Akash vani/ Uni"
+    },
+    {
+        "Journalist": "14",
+        "Designation": "Purushottham Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Aryan News"
+    },
+    {
+        "Journalist": "15",
+        "Designation": "Raj Kumar Ray",
+        "Publication": "Correspondent",
+        "Contact Number": "Jhajhat Times"
+    },
+    {
+        "Journalist": "16",
+        "Designation": "Chandrakant Yadav",
+        "Publication": "Correspondent",
+        "Contact Number": "Crime Kabar"
+    },
+    {
+        "Journalist": "17",
+        "Designation": "Keshav Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Hindustan"
+    },
+    {
+        "Journalist": "18",
+        "Designation": "Nirbhay Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Dainik Bhaskar"
+    },
+    {
+        "Journalist": "19",
+        "Designation": "Ushit Chandh Lal",
+        "Publication": "Photographer",
+        "Contact Number": "Dainik Bhaskar"
+    },
+    {
+        "Journalist": "20",
+        "Designation": "Vinod Kumar Giri",
+        "Publication": "Senior Correspondent",
+        "Contact Number": "Dainik Jagran"
+    },
+    {
+        "Journalist": "21",
+        "Designation": "Girija Nandhan Sharma",
+        "Publication": "Correspondent",
+        "Contact Number": "PK"
+    },
+    {
+        "Journalist": "22",
+        "Designation": "Sanjeev Tarun",
+        "Publication": "Photographer",
+        "Contact Number": "NBT/ Prabhat Khabar"
+    },
+    {
+        "Journalist": "23",
+        "Designation": "Gauri Shekhar",
+        "Publication": "Correspondent",
+        "Contact Number": "Durabheen"
+    },
+    {
+        "Journalist": "24",
+        "Designation": "Nayimudhin Azaadh",
+        "Publication": "Correspondent",
+        "Contact Number": "Farooqui Tanzeem"
+    },
+    {
+        "Journalist": "25",
+        "Designation": "Umesh Mishra",
+        "Publication": "Photographer",
+        "Contact Number": "Hindustan"
+    },
+    {
+        "Journalist": "26",
+        "Designation": "Vijay Singh",
+        "Publication": "Photographer",
+        "Contact Number": "Hindustan"
+    },
+    {
+        "Journalist": "27",
+        "Designation": "Trilok Nath Upadhyay",
+        "Publication": "Correspondent",
+        "Contact Number": "Hindustan"
+    },
+    {
+        "Journalist": "28",
+        "Designation": "Suman Narayana Mishra",
+        "Publication": "Correspondent",
+        "Contact Number": "India News "
+    },
+    {
+        "Journalist": "31",
+        "Designation": "Mantun Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Kashish News"
+    },
+    {
+        "Journalist": "34",
+        "Designation": "Naveen Kumar Varma",
+        "Publication": "Correspondent",
+        "Contact Number": "P News"
+    },
+    {
+        "Journalist": "36",
+        "Designation": "Aman Gautam",
+        "Publication": "Correspondent",
+        "Contact Number": "Prabhat Khabar"
+    },
+    {
+        "Journalist": "37",
+        "Designation": "Prakash Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Prabhat Khabar"
+    },
+    {
+        "Journalist": "39",
+        "Designation": "Naseem ",
+        "Publication": "Correspondent",
+        "Contact Number": "Qaumi Tanzeem"
+    },
+    {
+        "Journalist": "41",
+        "Designation": "Ramesh",
+        "Publication": "Correspondent",
+        "Contact Number": "Raftar News"
+    },
+    {
+        "Journalist": "42",
+        "Designation": "Mohamadh Amzaadh",
+        "Publication": "Correspondent",
+        "Contact Number": "Rajinama Pindar"
+    },
+    {
+        "Journalist": "43",
+        "Designation": "Vibhuthi Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Rashtriya Sahara"
+    },
+    {
+        "Journalist": "44",
+        "Designation": "Sanjay Kumar Raja",
+        "Publication": "Correspondent",
+        "Contact Number": "Rashtriya Sahara"
+    },
+    {
+        "Journalist": "45",
+        "Designation": "Kaisar",
+        "Publication": "Photographer",
+        "Contact Number": "Rashtriya Sahara"
+    },
+    {
+        "Journalist": "46",
+        "Designation": "Syed Manajarul Jamel",
+        "Publication": "Correspondent",
+        "Contact Number": "Roznama Sahara"
+    },
+    {
+        "Journalist": "47",
+        "Designation": "Anil Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Sadhana Plus News"
+    },
+    {
+        "Journalist": "48",
+        "Designation": "Ramesh Shekhar",
+        "Publication": "Correspondent",
+        "Contact Number": "Sahara Samay"
+    },
+    {
+        "Journalist": "49",
+        "Designation": "Jhunna Bhabha",
+        "Publication": "Correspondent",
+        "Contact Number": "Sanmarg"
+    },
+    {
+        "Journalist": "50",
+        "Designation": "Gopal Prasad",
+        "Publication": "Correspondent",
+        "Contact Number": "Special A To Z"
+    },
+    {
+        "Journalist": "53",
+        "Designation": "R Koushalendra",
+        "Publication": "Correspondent",
+        "Contact Number": "PTI"
+    },
+    {
+        "Journalist": "54",
+        "Designation": "Sanjeev Naipuri",
+        "Publication": "Correspondent",
+        "Contact Number": "Zee News 18"
+    }
+][
+    {
+        "Journalist": "1",
+        "Designation": "Rambabu Suman",
+        "Publication": "Bureau Chief",
+        "Contact Number": "Hindustan"
+    },
+    {
+        "Journalist": "2",
+        "Designation": "Mukesh Kumar",
+        "Publication": "Bureau Chief",
+        "Contact Number": "Dainik Jagran"
+    },
+    {
+        "Journalist": "3",
+        "Designation": "Abhay Kumar ",
+        "Publication": "Bureau Chief",
+        "Contact Number": "Prabhat Khabar"
+    },
+    {
+        "Journalist": "4",
+        "Designation": "Shiv Chandra Jha",
+        "Publication": "Bureau Chief",
+        "Contact Number": "Aaj "
+    },
+    {
+        "Journalist": "5",
+        "Designation": "Lakshmi Kant Singh",
+        "Publication": "Bureau Chief",
+        "Contact Number": "Dainik Bhaskar"
+    },
+    {
+        "Journalist": "6",
+        "Designation": "Shanti Kumar Jain",
+        "Publication": "Correspondent",
+        "Contact Number": "The Times of India"
+    },
+    {
+        "Journalist": "7",
+        "Designation": "Jahangir Aalam",
+        "Publication": "Correspondent",
+        "Contact Number": "Aaj Tak"
+    },
+    {
+        "Journalist": "8",
+        "Designation": "Om Prakash Ray",
+        "Publication": "Correspondent",
+        "Contact Number": "Bihar Tak"
+    },
+    {
+        "Journalist": "9",
+        "Designation": "Shyam Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "C News"
+    },
+    {
+        "Journalist": "10",
+        "Designation": "Amrita Kumari",
+        "Publication": "Correspondent",
+        "Contact Number": "ABP"
+    },
+    {
+        "Journalist": "11",
+        "Designation": "Hareshwar Kumar Dada",
+        "Publication": "Correspondent",
+        "Contact Number": "NDTV"
+    },
+    {
+        "Journalist": "12",
+        "Designation": "Mukesh Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "ETV News/ News 18"
+    },
+    {
+        "Journalist": "13",
+        "Designation": "Shna Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Akash vani/ Uni"
+    },
+    {
+        "Journalist": "14",
+        "Designation": "Purushottham Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Aryan News"
+    },
+    {
+        "Journalist": "15",
+        "Designation": "Raj Kumar Ray",
+        "Publication": "Correspondent",
+        "Contact Number": "Jhajhat Times"
+    },
+    {
+        "Journalist": "16",
+        "Designation": "Chandrakant Yadav",
+        "Publication": "Correspondent",
+        "Contact Number": "Crime Kabar"
+    },
+    {
+        "Journalist": "17",
+        "Designation": "Keshav Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Hindustan"
+    },
+    {
+        "Journalist": "18",
+        "Designation": "Nirbhay Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Dainik Bhaskar"
+    },
+    {
+        "Journalist": "19",
+        "Designation": "Ushit Chandh Lal",
+        "Publication": "Photographer",
+        "Contact Number": "Dainik Bhaskar"
+    },
+    {
+        "Journalist": "20",
+        "Designation": "Vinod Kumar Giri",
+        "Publication": "Senior Correspondent",
+        "Contact Number": "Dainik Jagran"
+    },
+    {
+        "Journalist": "21",
+        "Designation": "Girija Nandhan Sharma",
+        "Publication": "Correspondent",
+        "Contact Number": "PK"
+    },
+    {
+        "Journalist": "22",
+        "Designation": "Sanjeev Tarun",
+        "Publication": "Photographer",
+        "Contact Number": "NBT/ Prabhat Khabar"
+    },
+    {
+        "Journalist": "23",
+        "Designation": "Gauri Shekhar",
+        "Publication": "Correspondent",
+        "Contact Number": "Durabheen"
+    },
+    {
+        "Journalist": "24",
+        "Designation": "Nayimudhin Azaadh",
+        "Publication": "Correspondent",
+        "Contact Number": "Farooqui Tanzeem"
+    },
+    {
+        "Journalist": "25",
+        "Designation": "Umesh Mishra",
+        "Publication": "Photographer",
+        "Contact Number": "Hindustan"
+    },
+    {
+        "Journalist": "26",
+        "Designation": "Vijay Singh",
+        "Publication": "Photographer",
+        "Contact Number": "Hindustan"
+    },
+    {
+        "Journalist": "27",
+        "Designation": "Trilok Nath Upadhyay",
+        "Publication": "Correspondent",
+        "Contact Number": "Hindustan"
+    },
+    {
+        "Journalist": "28",
+        "Designation": "Suman Narayana Mishra",
+        "Publication": "Correspondent",
+        "Contact Number": "India News "
+    },
+    {
+        "Journalist": "31",
+        "Designation": "Mantun Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Kashish News"
+    },
+    {
+        "Journalist": "34",
+        "Designation": "Naveen Kumar Varma",
+        "Publication": "Correspondent",
+        "Contact Number": "P News"
+    },
+    {
+        "Journalist": "36",
+        "Designation": "Aman Gautam",
+        "Publication": "Correspondent",
+        "Contact Number": "Prabhat Khabar"
+    },
+    {
+        "Journalist": "37",
+        "Designation": "Prakash Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Prabhat Khabar"
+    },
+    {
+        "Journalist": "39",
+        "Designation": "Naseem ",
+        "Publication": "Correspondent",
+        "Contact Number": "Qaumi Tanzeem"
+    },
+    {
+        "Journalist": "41",
+        "Designation": "Ramesh",
+        "Publication": "Correspondent",
+        "Contact Number": "Raftar News"
+    },
+    {
+        "Journalist": "42",
+        "Designation": "Mohamadh Amzaadh",
+        "Publication": "Correspondent",
+        "Contact Number": "Rajinama Pindar"
+    },
+    {
+        "Journalist": "43",
+        "Designation": "Vibhuthi Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Rashtriya Sahara"
+    },
+    {
+        "Journalist": "44",
+        "Designation": "Sanjay Kumar Raja",
+        "Publication": "Correspondent",
+        "Contact Number": "Rashtriya Sahara"
+    },
+    {
+        "Journalist": "45",
+        "Designation": "Kaisar",
+        "Publication": "Photographer",
+        "Contact Number": "Rashtriya Sahara"
+    },
+    {
+        "Journalist": "46",
+        "Designation": "Syed Manajarul Jamel",
+        "Publication": "Correspondent",
+        "Contact Number": "Roznama Sahara"
+    },
+    {
+        "Journalist": "47",
+        "Designation": "Anil Kumar",
+        "Publication": "Correspondent",
+        "Contact Number": "Sadhana Plus News"
+    },
+    {
+        "Journalist": "48",
+        "Designation": "Ramesh Shekhar",
+        "Publication": "Correspondent",
+        "Contact Number": "Sahara Samay"
+    },
+    {
+        "Journalist": "49",
+        "Designation": "Jhunna Bhabha",
+        "Publication": "Correspondent",
+        "Contact Number": "Sanmarg"
+    },
+    {
+        "Journalist": "50",
+        "Designation": "Gopal Prasad",
+        "Publication": "Correspondent",
+        "Contact Number": "Special A To Z"
+    },
+    {
+        "Journalist": "53",
+        "Designation": "R Koushalendra",
+        "Publication": "Correspondent",
+        "Contact Number": "PTI"
+    },
+    {
+        "Journalist": "54",
+        "Designation": "Sanjeev Naipuri",
+        "Publication": "Correspondent",
+        "Contact Number": "Zee News 18"
+    }
+]v
