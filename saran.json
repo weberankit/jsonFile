@@ -1,0 +1,335 @@
+[
+    {
+        "Sl. No.": "1",
+        "Journalist": "Rajiv Sinha",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9931990417",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "2",
+        "Journalist": "Rajesh Pandey",
+        "Designation": "Bureau Chief",
+        "Publication": "Aaj",
+        "Contact Number": "9709538660",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "3",
+        "Journalist": "Aman Singh",
+        "Designation": "Bureau Chief",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9097451136",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "4",
+        "Journalist": "Dr Anis Azad",
+        "Designation": "Bureau Chief",
+        "Publication": "Hindustan",
+        "Contact Number": "9472812400",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "5",
+        "Journalist": "Thakur S. Singh",
+        "Designation": "Bureau Chief",
+        "Publication": "Prabhat Khabar",
+        "Contact Number": "9470481791",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "6",
+        "Journalist": "Santosh Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "News-18",
+        "Contact Number": "9431088797",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "7",
+        "Journalist": "Raju",
+        "Designation": "Bureau Chief",
+        "Publication": "Pindar urdu daily",
+        "Contact Number": "9470059816",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "8",
+        "Journalist": "Vidya Bhushan Srivastava",
+        "Designation": "Bureau Chief",
+        "Publication": "Rashtriya Sahara",
+        "Contact Number": "9431424323",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "9",
+        "Journalist": "Nitish K Chandra",
+        "Designation": "Bureau Chief",
+        "Publication": "India TV",
+        "Contact Number": "9431020932",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "10",
+        "Journalist": "Aditya Kumar Jha",
+        "Designation": "Bureau Chief",
+        "Publication": "Times Now",
+        "Contact Number": "9431644888",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "11",
+        "Journalist": "Ajay Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "DD News",
+        "Contact Number": "8544411907",
+        "Status": "Active",
+        "": ""
+    },
+    {
+        "Sl. No.": "12",
+        "Journalist": "Ganpat Kumar",
+        "Designation": "Bureau Chief",
+        "Publication": "Sanjeevani Samachar",
+        "Contact Number": "9852402954",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "13",
+        "Journalist": "Raju Jaiswal",
+        "Designation": "Bureau Chief",
+        "Publication": "pindar urdu newspapers",
+        "Contact Number": "7004013636",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "14",
+        "Journalist": "Surbhit Dutt",
+        "Designation": "Correspondent",
+        "Publication": "Chapra Today",
+        "Contact Number": "9430209641",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "15",
+        "Journalist": "Kishor Kumar Srivastava",
+        "Designation": "Correspondent",
+        "Publication": "Aaj",
+        "Contact Number": "9835693520",
+        "Status": "Active",
+        "": ""
+    },
+    {
+        "Sl. No.": "16",
+        "Journalist": "Dharmender Rastogi",
+        "Designation": "Correspondent",
+        "Publication": "ETV Bharat",
+        "Contact Number": "9431630994",
+        "Status": "N/A",
+        "": ""
+    },
+    {
+        "Sl. No.": "17",
+        "Journalist": "Satyajeet Kumar",
+        "Designation": "Correspondent",
+        "Publication": "DD News",
+        "Contact Number": "9931646908",
+        "Status": "Active",
+        "": ""
+    },
+    {
+        "Sl. No.": "18",
+        "Journalist": "Vipin Bihari Prasad",
+        "Designation": "Correspondent",
+        "Publication": "India TV",
+        "Contact Number": "8986153257",
+        "Status": "Active",
+        "": ""
+    },
+    {
+        "Sl. No.": "19",
+        "Journalist": "Bipin Bihari",
+        "Designation": "Correspondent",
+        "Publication": "India TV",
+        "Contact Number": "9431853881",
+        "Status": "N/A",
+        "": ""
+    },
+    {
+        "Sl. No.": "20",
+        "Journalist": "Dhanjay Singh Tomar",
+        "Designation": "Correspondent",
+        "Publication": "Digital lead at Danik Bhaskar",
+        "Contact Number": "9097233933",
+        "Status": "Active",
+        "": ""
+    },
+    {
+        "Sl. No.": "21",
+        "Journalist": "Umesh Kumar Pathak",
+        "Designation": "Correspondent",
+        "Publication": "Hindustan",
+        "Contact Number": "9431478947",
+        "Status": "Active",
+        "": ""
+    },
+    {
+        "Sl. No.": "22",
+        "Journalist": "Ashutosh",
+        "Designation": "Correspondent",
+        "Publication": "ABP",
+        "Contact Number": "9431433026",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "23",
+        "Journalist": "Alok Kumar Jaiswal",
+        "Designation": "Correspondent",
+        "Publication": "Aaj Tak",
+        "Contact Number": "9430078667",
+        "Status": "Active",
+        "": ""
+    },
+    {
+        "Sl. No.": "27",
+        "Journalist": "Pramod Kumar Singh",
+        "Designation": "Correspondent",
+        "Publication": "NDTV",
+        "Contact Number": "9431633845",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "28",
+        "Journalist": "Nadeem Ahmad",
+        "Designation": "Correspondent",
+        "Publication": "Rashtriya Sahara/ Qaumi Tanzeem",
+        "Contact Number": "9431272942",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "29",
+        "Journalist": "Shri Pankaj Kumar",
+        "Designation": "Correspondent",
+        "Publication": "Sahara Samay",
+        "Contact Number": "9431439334",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "31",
+        "Journalist": "Rakesh Kumar Sinha",
+        "Designation": "Correspondent",
+        "Publication": "Telegraph",
+        "Contact Number": "9472933212",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "32",
+        "Journalist": "Shri Jakir Ali",
+        "Designation": "Correspondent",
+        "Publication": "Times Now",
+        "Contact Number": "9431644888",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "33",
+        "Journalist": "H.K Verma",
+        "Designation": "Correspondent",
+        "Publication": "Times Of India",
+        "Contact Number": "9431439878",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "34",
+        "Journalist": "Sanjay Kumar Sinha",
+        "Designation": "Reporter",
+        "Publication": "Dainik Bhaskar",
+        "Contact Number": "9431424501",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "36",
+        "Journalist": "Amritesh Kumar",
+        "Designation": "Reporter",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9431088355",
+        "Status": "Active",
+        "": ""
+    },
+    {
+        "Sl. No.": "37",
+        "Journalist": "Niraj Pratap",
+        "Designation": "Reporter",
+        "Publication": "Hindustan",
+        "Contact Number": "9430677475",
+        "Status": "Active",
+        "": ""
+    },
+    {
+        "Sl. No.": "38",
+        "Journalist": "Rakesh Kumar Singh",
+        "Designation": "Reporter",
+        "Publication": "Zee TV",
+        "Contact Number": "9431423748/ 9801082010",
+        "Status": "Active ",
+        "": ""
+    },
+    {
+        "Sl. No.": "41",
+        "Journalist": "Lala Babu",
+        "Designation": "Reporter",
+        "Publication": "PTI",
+        "Contact Number": "9431283329",
+        "Status": "Active",
+        "": ""
+    },
+    {
+        "Sl. No.": "42",
+        "Journalist": "Avinash kumar",
+        "Designation": "Reporter",
+        "Publication": "Hindustan Times",
+        "Contact Number": "9431060230",
+        "Status": "Active",
+        "": ""
+    },
+    {
+        "Sl. No.": "43",
+        "Journalist": "Kamlakar Upadhyay",
+        "Designation": "Reporter",
+        "Publication": "Dainik Jagran",
+        "Contact Number": "9334955762",
+        "Status": "Active",
+        "": ""
+    },
+    {
+        "Sl. No.": "44",
+        "Journalist": "Shashi Bhushan Pandey",
+        "Designation": "Reporter",
+        "Publication": "Hindustan",
+        "Contact Number": "9431439136",
+        "Status": "Active",
+        "": ""
+    }
+]
